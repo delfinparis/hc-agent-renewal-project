@@ -49,7 +49,7 @@ function getActiveAgents() {
           boards(ids: $boardId) {
             items_page(limit: 500) {
               cursor
-              items { name, group { id }, column_values { id title text } }
+              items { name, group { id }, column_values { id text } }
             }
           }
         }`,
@@ -66,7 +66,7 @@ function getActiveAgents() {
         `query ($cursor: String!) {
           next_items_page(limit: 500, cursor: $cursor) {
             cursor
-            items { name, group { id }, column_values { id title text } }
+            items { name, group { id }, column_values { id text } }
           }
         }`,
         { cursor: cursor }
@@ -85,16 +85,19 @@ function getActiveAgents() {
 }
 
 function parseMonday(item) {
-  // Store both column title and id for flexible lookups
   const cols = {};
-  item.column_values.forEach(c => {
-    cols[c.title.toLowerCase()] = c.text;
-    cols[c.id.toLowerCase()] = c.text;
-  });
+  item.column_values.forEach(c => { cols[c.id.toLowerCase()] = c.text; });
 
-  // First name: try title variations, then known column IDs
-  let first = cols["first name"] || cols["firstname"] || cols["first"] || cols["text95"] || "";
-  let last = cols["last name"] || cols["lastname"] || cols["last"] || cols["text_19"] || "";
+  // Log column IDs on first item to help discover HC's column mapping
+  if (!parseMonday._logged) {
+    var colIds = item.column_values.map(function(c) { return c.id + "=" + (c.text || "").substring(0, 30); });
+    Logger.log("Column IDs: " + colIds.join(", "));
+    parseMonday._logged = true;
+  }
+
+  // First name / Last name: try known column IDs
+  let first = cols["text95"] || cols["first_name"] || cols["first name"] || cols["firstname"] || "";
+  let last = cols["text_19"] || cols["last_name"] || cols["last name"] || cols["lastname"] || "";
 
   if (!first && !last) {
     const parts = item.name.trim().split(/\s+/);
@@ -102,14 +105,14 @@ function parseMonday(item) {
     last = parts.slice(1).join(" ") || "";
   }
 
-  // License number: try title, then known column IDs (license_number3 for HC, license_number for KHA)
-  var licenseNum = cols["license number"] || cols["license"] || cols["license_number3"] || cols["license_number"] || "";
+  // License number: license_number3 for HC, license_number for KHA
+  var licenseNum = cols["license_number3"] || cols["license_number"] || "";
 
-  // Email: try title variations, then known column IDs
-  var email = cols["work email"] || cols["email"] || cols["home email"] || cols["work_email"] || cols["home_email"] || "";
+  // Email: try common column IDs
+  var email = cols["email"] || cols["work_email"] || cols["home_email"] || "";
 
-  // Phone: try title variations, then known column IDs
-  var phone = cols["phone"] || cols["phone number"] || cols["phone_number8"] || cols["phone_number"] || "";
+  // Phone: try common column IDs
+  var phone = cols["phone3"] || cols["phone"] || cols["phone_number8"] || cols["phone_number"] || "";
 
   return {
     first: first.trim().toLowerCase(),
