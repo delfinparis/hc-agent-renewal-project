@@ -14,8 +14,8 @@ const CONFIG = {
   SEND_INTERVAL_DAYS: 7,
   SHEET_NAME: "Emails",
   TEMPLATE_FILE: "email_template.md",
-  SPREADSHEET_ID: "",  // TODO: set HC spreadsheet ID
-  MAKE_WEBHOOK_URL: "",  // TODO: set HC Make.com webhook URL
+  SPREADSHEET_ID: "1npw5b1MKI7C2Xkg6qrE7NR6x378wxO-tsolKNJXDxn8",
+  MAKE_WEBHOOK_URL: "https://hook.us1.make.com/r9l86opsva2re0b1kb3cae95x947xawc",
 };
 
 // --- GET SPREADSHEET (works in triggers AND manual runs) ---
