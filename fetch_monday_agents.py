@@ -59,7 +59,7 @@ def fetch_board_items(board_id):
             id
             name
             group { id title }
-            column_values { id title text }
+            column_values { id text }
           }
         }
       }
@@ -82,7 +82,7 @@ def fetch_board_items(board_id):
           id
           name
           group { id title }
-          column_values { id title text }
+          column_values { id text }
         }
       }
     }
@@ -104,7 +104,6 @@ def extract_agent_info(item):
     """Extract agent first/last name and license number from a Monday.com item."""
     col_lookup = {}
     for col in item["column_values"]:
-        col_lookup[col["title"].lower()] = col["text"]
         col_lookup[col["id"].lower()] = col["text"]
 
     first_name = None
