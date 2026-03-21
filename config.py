@@ -5,6 +5,7 @@ from datetime import date
 
 # Monday.com board
 MONDAY_BOARD_ID = 359922413
+MONDAY_ACTIVE_GROUP_ID = "topics"
 MONDAY_TERMINATED_GROUP_ID = "new_group79397"
 
 # DFPR (data.illinois.gov)

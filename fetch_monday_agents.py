@@ -13,7 +13,7 @@ import json
 import requests
 import pandas as pd
 
-from config import MONDAY_BOARD_ID, MONDAY_TERMINATED_GROUP_ID, ENTITY_NAME
+from config import MONDAY_BOARD_ID, MONDAY_ACTIVE_GROUP_ID, MONDAY_TERMINATED_GROUP_ID, ENTITY_NAME
 
 MONDAY_API_URL = "https://api.monday.com/v2"
 PAGE_LIMIT = 500
@@ -145,9 +145,9 @@ def fetch_active_agents():
     """Fetch active (non-terminated) agents and return as a DataFrame."""
     items = fetch_board_items(MONDAY_BOARD_ID)
 
-    active = [i for i in items if i["group"]["id"] != MONDAY_TERMINATED_GROUP_ID]
-    terminated = len(items) - len(active)
-    print(f"  Active: {len(active)}, Terminated (filtered out): {terminated}")
+    active = [i for i in items if i["group"]["id"] == MONDAY_ACTIVE_GROUP_ID]
+    excluded = len(items) - len(active)
+    print(f"  Active: {len(active)}, Other groups (filtered out): {excluded}")
 
     agents = [extract_agent_info(item) for item in active]
     df = pd.DataFrame(agents)
