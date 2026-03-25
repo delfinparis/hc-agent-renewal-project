@@ -1,4 +1,6 @@
 First Name,Last Name,License Number,monday_item_id,monday_group
+Jacklyn,Cvitanovich,475195651,5534106116,Holding Company Agents
+Max,Opalinski,475213137,11586106480,Holding Company Agents
 Carl,Bledsoe,475197967,11557482495,Holding Company Agents
 Abby,Koehn,475179316,11539485918,Holding Company Agents
 Amadou,(Tee) Lam,4751720658,2057700342,Holding Company Agents
@@ -76,13 +78,11 @@ Olga,Kowalski,475187828,18017836994,Holding Company Agents
 Ida,Butler,475191046,18017747572,Holding Company Agents
 Latasha,Harrington,475209291,10084995473,Holding Company Agents
 Edith,Monroy,475156501,10074593627,Holding Company Agents
-Michael,Manzuk,475201760,10074160941,Holding Company Agents
 Barbara,Martin,475162393,10074123094,Holding Company Agents
 Schanee,Woods (Ulma),475157051,10074115349,Holding Company Agents
 Charles,Berberich,475135414,10054177572,Holding Company Agents
 Mahira,Faisal,475201380,10054174764,Holding Company Agents
 Marija,Trajkovikj,475194297,10052941459,Holding Company Agents
-Andre,Martin,475205626,10039198557,Holding Company Agents
 Leslie,Bukowski,475192290,10030385653,Holding Company Agents
 Dewayne,Reid,475194041,10021057539,Holding Company Agents
 Sean,Kim,475159798,10009045762,Holding Company Agents
@@ -152,7 +152,6 @@ William,Leon,475214646,8681588296,Holding Company Agents
 Jaclyn,Grammas,475183213,8681585478,Holding Company Agents
 Tishawna,Bell,475211365,8660993303,Holding Company Agents
 Tapeka,Tolbert,475187704,8640671803,Holding Company Agents
-Shreejana,Paudel,475177228,8630704072,Holding Company Agents
 Ipek,Gundogdu,475206247,8620600053,Holding Company Agents
 Joseph,Henley,475193002,8619750487,Holding Company Agents
 Sung,Yoo,475178432,8611781588,Holding Company Agents
@@ -188,7 +187,6 @@ Michelle,Eigenbrodt,475170994,8130094361,Holding Company Agents
 Jacqueline,Kreidell,475156852,8106573941,Holding Company Agents
 Janet,Linde,475169782,8104747634,Holding Company Agents
 Laura,Walls,475211180,8096218002,Holding Company Agents
-Eduardo,Velez,475194788,8087087791,Holding Company Agents
 Norbert,Lukacs,475173805,8087086600,Holding Company Agents
 Kristy,Dalton,475186156,8069647988,Holding Company Agents
 Noemi,Gordon,475198911,8059883106,Holding Company Agents
@@ -223,7 +221,6 @@ Katherine,Sullivan,475155007,7834028001,Holding Company Agents
 Taylor,Mandell,475209113,7826126162,Holding Company Agents
 Aleksandra,Baycheva- Dimov,475213636,7813733392,Holding Company Agents
 Andre,Brooks,475171148,7796000778,Holding Company Agents
-Cody,Gowler,475187752,7788136219,Holding Company Agents
 Shaukat,Ali,475162148,7779019741,Holding Company Agents
 Bonnie,Kenney,475123707,7779018361,Holding Company Agents
 Khaja,Syed,475207844,7765613089,Holding Company Agents
@@ -274,7 +271,6 @@ Jack,Katz,475167537,7465197520,Holding Company Agents
 Reynaldo,Ymson,475123317,7464061405,Holding Company Agents
 Noshaba,Mohsin,475205577,7464057920,Holding Company Agents
 Geneen,Sulaiman,475211179,7457566882,Holding Company Agents
-Heidi,Fiorentino,475145198,7456620391,Holding Company Agents
 Sobhi,Mhtachem,475181797,7456617373,Holding Company Agents
 Janet,Ocampo,475193879,7448752751,Holding Company Agents
 Joseph,Nakagawa,475200934,7447731503,Holding Company Agents
@@ -413,7 +409,6 @@ Ann,Marie Koss,475204407,5609213460,Holding Company Agents
 Staci,Seed,475172634,5609211018,Holding Company Agents
 Deborah,Walizer,475131665,5605152856,Holding Company Agents
 Sean,Munson,475203751,5594992359,Holding Company Agents
-Zoran,Stanoev,475190259,5578304381,Holding Company Agents
 Sarah,Jovanovic,475201503,5575585019,Holding Company Agents
 Nurudeen,Abiodun Ajeigbe,475204726,5575583825,Holding Company Agents
 Jaudat,Rahmani,475189496,5575582502,Holding Company Agents
@@ -463,12 +458,10 @@ Ekaterina,Osina,475198866,5037814374,Holding Company Agents
 Baitul,Javid,475191420,5012840830,Holding Company Agents
 Lauren,Johnson,475126620,5007572638,Holding Company Agents
 Nicole,Griffin (Rene Brown),475151093,5005469640,Holding Company Agents
-Howard,Sutherlin Sr,475205935,4984687711,Holding Company Agents
 Sarah,Huang,475188230,4968742993,Holding Company Agents
 Jennifer,Nardone,475162850,4942370387,Holding Company Agents
 Choong,Sik Kim,475128631,4926632592,Holding Company Agents
 Angela,Galindo,475183205,4909608686,Holding Company Agents
-Elizabeth,Zirgaitis,475146838,4902944431,Holding Company Agents
 Courtney,Taylor,475194802,4887472641,Holding Company Agents
 Jeff,Matyszka,475167907,4860281189,Holding Company Agents
 Jennifer,Knuppel,475144638,4831771637,Holding Company Agents
@@ -603,7 +596,6 @@ John,Sammons,475133378,1961937036,Holding Company Agents
 Eleni,Malamis,475187865,1962054366,Holding Company Agents
 Matthew,Whiteside,475164260,1954016359,Holding Company Agents
 Christine,McCarthy,475145994,1957564262,Holding Company Agents
-Diana,Rondone,475173295,1954101679,Holding Company Agents
 Joselyn,Almburg,475174527,1935581472,Holding Company Agents
 Jenna,Jeffery (Peterson),475189557,1899151238,Holding Company Agents
 Jennifer,Pilkington,475199880,1875388733,Holding Company Agents
@@ -631,7 +623,6 @@ Mary,Sue Jones,475130655,1617783121,Holding Company Agents
 Calvin,Mwesigwa,475169507,1584903684,Holding Company Agents
 Melissa,Clark,475181238,1547012276,Holding Company Agents
 Murugan,Nellayappan,475186912,1523986575,Holding Company Agents
-Alejandro,Ruiz,475163282,1488496321,Holding Company Agents
 Bing,Tie,475109093,1354240398,Holding Company Agents
 Brianna,Tyler,475181295,1338032833,Holding Company Agents
 Pamela,Regalado,475151027,1338035378,Holding Company Agents
@@ -731,7 +722,6 @@ Egidio,Bilotto,475100527,359922486,Holding Company Agents
 Ina,Jones,475156433,359922552,Holding Company Agents
 Lisa,(Elizabeth Liebelt) Santos,475106865,359922556,Holding Company Agents
 Christopher,Yamat,475134895,359922587,Holding Company Agents
-Karen,Scully,475159593,359922453,Holding Company Agents
 Thomas,J Murphy (Jr),475153403,359922673,Holding Company Agents
 James,B Stewart,475148588,359922563,Holding Company Agents
 Christine,Maar,475168989,359922665,Holding Company Agents
@@ -809,4 +799,3 @@ Darnell,King,475207986,8611769337,Holding Company Agents
 Karen,Thrash,475171489,8364003410,Holding Company Agents
 Vanessa,Campbell,475205366,8611769003,Holding Company Agents
 Ebony,Hymon,475205021,8765507237,Holding Company Agents
-Jacqueline,Garber,475149798,359922419,Holding Company Agents
