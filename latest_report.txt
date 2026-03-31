@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-03-30
+[HC] License Renewal Report — 2026-03-31
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     267
-KEEP (needs renewal):         709
-KEEP (no match in DFPR):      75
-Total needing renewal:        784
+REMOVE (already renewed):     282
+KEEP (needs renewal):         695
+KEEP (no match in DFPR):      74
+Total needing renewal:        769
 
---- Agents Who Renewed (267) ---
+--- Agents Who Renewed (282) ---
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
   Admir Hot                           | expires 07/31/2026 (already renewed)
   Aelna Joseph                        | expires 04/30/2028 (already renewed)
@@ -18,6 +18,7 @@ Total needing renewal:        784
   Allen Samuel                        | expires 04/30/2027 (already renewed)
   Allison Fox                         | expires 04/30/2028 (already renewed)
   Allison Harms                       | expires 04/30/2028 (already renewed)
+  Alyssa Bawolek                      | expires 04/30/2028 (already renewed)
   Amber Fourman-Duke                  | expires 04/30/2028 (already renewed)
   Amina Parks                         | expires 04/30/2028 (already renewed)
   Amy Davis                           | expires 04/30/2028 (already renewed)
@@ -25,6 +26,7 @@ Total needing renewal:        784
   Andre Martin                        | expires 04/30/2028 (already renewed)
   Andrea Buttita                      | expires 04/30/2027 (already renewed)
   Andrea Gowler                       | expires 04/30/2028 (already renewed)
+  Andrew Calvin                       | expires 04/30/2028 (already renewed)
   Andrew Wojciak                      | expires 04/30/2028 (already renewed)
   Aneta Kopera                        | expires 04/30/2028 (already renewed)
   Angela Davis                        | expires 07/31/2026 (already renewed)
@@ -40,6 +42,7 @@ Total needing renewal:        784
   Ashley Shanks                       | expires 04/30/2028 (already renewed)
   Audrius Staskevicius                | expires 04/30/2028 (already renewed)
   Bertha Cruz                         | expires 04/30/2028 (already renewed)
+  Bina Shah                           | expires 04/30/2028 (already renewed)
   Blaine Rada                         | expires 04/30/2028 (already renewed)
   Boo Jang                            | expires 04/30/2028 (already renewed)
   Brittany Baie                       | expires 04/30/2028 (already renewed)
@@ -78,6 +81,8 @@ Total needing renewal:        784
   Dominika Sirant                     | expires 04/30/2028 (already renewed)
   Donna Muhammad                      | expires 07/31/2026 (already renewed)
   Dorothy Lowe                        | expires 04/30/2027 (already renewed)
+  Dylan Rowland                       | expires 04/30/2028 (already renewed)
+  Eduardo Galvez                      | expires 04/30/2028 (already renewed)
   Eduardo Velez                       | expires 04/30/2028 (already renewed)
   Edyta Bajena                        | expires 04/30/2028 (already renewed)
   Edyta Rybka                         | expires 07/31/2026 (already renewed)
@@ -94,6 +99,7 @@ Total needing renewal:        784
   Francesca Stirrat                   | expires 04/30/2028 (already renewed)
   Frank Lockenour                     | expires 04/30/2028 (already renewed)
   Fred Lin                            | expires 04/30/2028 (already renewed)
+  Gabriel Franken                     | expires 04/30/2028 (already renewed)
   Gabriel Malavolti                   | expires 04/30/2028 (already renewed)
   Gerardo Lozano                      | expires 04/30/2028 (already renewed)
   Gina Sciore                         | expires 04/30/2028 (already renewed)
@@ -103,6 +109,7 @@ Total needing renewal:        784
   Gregory Elkins                      | expires 04/30/2028 (already renewed)
   Grethel Juarez                      | expires 04/30/2028 (already renewed)
   Hadrian Hobbs                       | expires 04/30/2028 (already renewed)
+  Halea Isberg                        | expires 04/30/2028 (already renewed)
   Heidi Fiorentino                    | expires 04/30/2028 (already renewed)
   Heidi Wade                          | expires 04/30/2028 (already renewed)
   Hohyung Lee                         | expires 04/30/2028 (already renewed)
@@ -133,6 +140,8 @@ Total needing renewal:        784
   John Jiang                          | expires 04/30/2028 (already renewed)
   John Lin                            | expires 04/30/2027 (already renewed)
   John Michaels                       | expires 04/30/2028 (already renewed)
+  John Strong                         | expires 04/30/2027 (already renewed)
+  John Willis                         | expires 04/30/2028 (already renewed)
   Joseph G Willard                    | expires 04/30/2028 (already renewed)
   Joseph Ostrander                    | expires 04/30/2028 (already renewed)
   Joseph Tinerino                     | expires 04/30/2028 (already renewed)
@@ -144,6 +153,7 @@ Total needing renewal:        784
   Kamila Kowalczyk                    | expires 04/30/2028 (already renewed)
   Karen Scully                        | expires 04/30/2028 (already renewed)
   Karlton Uhm                         | expires 04/30/2028 (already renewed)
+  Kathleen Raines (Caruso)            | expires 04/30/2028 (already renewed)
   Keith Jacobson                      | expires 04/30/2028 (already renewed)
   Kevin Glovack                       | expires 04/30/2028 (already renewed)
   Kevin Johnson                       | expires 04/30/2028 (already renewed)
@@ -188,6 +198,7 @@ Total needing renewal:        784
   Matthew Shay                        | expires 04/30/2028 (already renewed)
   Mayrna Akroush                      | expires 04/30/2028 (already renewed)
   Medardo Rivera Guerrero             | expires 04/30/2028 (already renewed)
+  Melinda McCord                      | expires 04/30/2028 (already renewed)
   Michael Axelrood                    | expires 04/30/2027 (already renewed)
   Michael Burns                       | expires 04/30/2028 (already renewed)
   Michael Manzuk                      | expires 04/30/2028 (already renewed)
@@ -209,6 +220,7 @@ Total needing renewal:        784
   Pamela Hurt                         | expires 04/30/2028 (already renewed)
   Parth Bhansali                      | expires 04/30/2028 (already renewed)
   Patricia DeGarmo                    | expires 04/30/2028 (already renewed)
+  Patricia Jones-Henderson            | expires 04/30/2028 (already renewed)
   Patricia Klein-Gihon                | expires 04/30/2028 (already renewed)
   Patrick Holtrop                     | expires 04/30/2028 (already renewed)
   Paul Dickey                         | expires 04/30/2028 (already renewed)
@@ -231,6 +243,7 @@ Total needing renewal:        784
   Ryan Rusan                          | expires 07/31/2026 (already renewed)
   Ryan Stavros                        | expires 04/30/2028 (already renewed)
   Saar Schnitman                      | expires 04/30/2028 (already renewed)
+  Samantha Perez                      | expires 04/30/2028 (already renewed)
   Samuel Shearer                      | expires 04/30/2027 (already renewed)
   Sandra Zavala                       | expires 04/30/2028 (already renewed)
   Sara M. King                        | expires 04/30/2028 (already renewed)
@@ -252,8 +265,10 @@ Total needing renewal:        784
   Syed Ahmed                          | expires 04/30/2027 (already renewed)
   Syed Razvi                          | expires 04/30/2028 (already renewed)
   Tammy Busch                         | expires 04/30/2028 (already renewed)
+  Tatjana Crnomarkovic                | expires 04/30/2028 (already renewed)
   Terry Sydorenko                     | expires 04/30/2028 (already renewed)
   Thomas Poulos                       | expires 04/30/2027 (already renewed)
+  Tiffany Cassin                      | expires 04/30/2028 (already renewed)
   Ting Ma                             | expires 04/30/2028 (already renewed)
   Toma Racka                          | expires 04/30/2028 (already renewed)
   Tomasz Barbachen                    | expires 04/30/2028 (already renewed)
@@ -276,7 +291,7 @@ Total needing renewal:        784
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (709) ---
+--- Agents Still Needing Renewal (695) ---
   Aaron Clark                         | expires 04/30/2026 (needs renewal)
   Abby Koehn                          | expires 04/30/2026 (needs renewal)
   Adam Codilis                        | expires 04/30/2026 (needs renewal)
@@ -357,7 +372,6 @@ Total needing renewal:        784
   Bektemir Ashirmatov                 | expires 04/30/2026 (needs renewal)
   Belinda Brown                       | expires 04/30/2026 (needs renewal)
   Bilha Salomon                       | expires 04/30/2026 (needs renewal)
-  Bina Shah                           | expires 04/30/2026 (needs renewal)
   Bing Tie                            | expires 04/30/2026 (needs renewal)
   Binh Phung                          | expires 04/30/2026 (needs renewal)
   Blake Hebeler                       | expires 04/30/2026 (needs renewal)
@@ -457,12 +471,10 @@ Total needing renewal:        784
   Donna Holt                          | expires 04/30/2026 (needs renewal)
   Dorthea Willingham                  | expires 04/30/2026 (needs renewal)
   Drazenko Jozic                      | expires 04/30/2026 (needs renewal)
-  Dylan Rowland                       | expires 04/30/2026 (needs renewal)
   Ebony Hymon                         | expires 04/30/2026 (needs renewal)
   Edan Gelt                           | expires 04/30/2026 (needs renewal)
   Eden Esparza                        | expires 04/30/2026 (needs renewal)
   Edith Monroy                        | expires 04/30/2026 (needs renewal)
-  Eduardo Galvez                      | expires 04/30/2026 (needs renewal)
   Egidio Bilotto                      | expires 04/30/2026 (needs renewal)
   Egle Zilinskis                      | expires 04/30/2026 (needs renewal)
   Ekaterina Osina                     | expires 04/30/2026 (needs renewal)
@@ -494,7 +506,6 @@ Total needing renewal:        784
   Floyd Wilson                        | expires 04/30/2026 (needs renewal)
   Foluke Dada                         | expires 04/30/2026 (needs renewal)
   Francisco Ortiz                     | expires 04/30/2026 (needs renewal)
-  Gabriel Franken                     | expires 04/30/2026 (needs renewal)
   Gabriel Wong                        | expires 04/30/2026 (needs renewal)
   Gabrielle Vinson                    | expires 04/30/2026 (needs renewal)
   Galina Manahilova                   | expires 04/30/2026 (needs renewal)
@@ -507,7 +518,6 @@ Total needing renewal:        784
   Goda Joneikis                       | expires 04/30/2026 (needs renewal)
   Gregg Horan                         | expires 04/30/2026 (needs renewal)
   Hala Souman                         | expires 04/30/2026 (needs renewal)
-  Halea Isberg                        | expires 04/30/2026 (needs renewal)
   Heather Trainor                     | expires 04/30/2026 (needs renewal)
   Hector Martinez                     | expires 04/30/2026 (needs renewal)
   Heide Casciaro                      | expires 04/30/2026 (needs renewal)
@@ -599,7 +609,6 @@ Total needing renewal:        784
   John P. Morgan                      | expires 04/30/2026 (needs renewal)
   John Sammons                        | expires 04/30/2026 (needs renewal)
   John T Reilly                       | expires 04/30/2026 (needs renewal)
-  John Willis                         | expires 04/30/2026 (needs renewal)
   Johnetta Reeves                     | expires 04/30/2026 (needs renewal)
   Jon Zieff                           | expires 04/30/2026 (needs renewal)
   Jonathan Dano                       | expires 04/30/2026 (needs renewal)
@@ -639,7 +648,6 @@ Total needing renewal:        784
   Kathleen D'Isa                      | expires 04/30/2026 (needs renewal)
   Kathleen Mullahy                    | expires 04/30/2026 (needs renewal)
   Kathleen Pizzolato                  | expires 04/30/2026 (needs renewal)
-  Kathleen Raines (Caruso)            | expires 04/30/2026 (needs renewal)
   Kathleen Zirkelbach                 | expires 04/30/2026 (needs renewal)
   Kathryn Sugrue                      | expires 04/30/2026 (needs renewal)
   Kathy Vollmer                       | expires 04/30/2026 (needs renewal)
@@ -752,7 +760,6 @@ Total needing renewal:        784
   Megan Hewitt                        | expires 04/30/2026 (needs renewal)
   Megan McIlvane                      | expires 04/30/2026 (needs renewal)
   Melanie Johnson                     | expires 04/30/2026 (needs renewal)
-  Melinda McCord                      | expires 04/30/2026 (needs renewal)
   Melissa Clark                       | expires 04/30/2026 (needs renewal)
   Meredith Johnson                    | expires 04/30/2026 (needs renewal)
   Michael Bilton                      | expires 04/30/2026 (needs renewal)
@@ -797,7 +804,6 @@ Total needing renewal:        784
   Nicholas Dwayne                     | expires 04/30/2026 (needs renewal)
   Nick Leckow                         | expires 04/30/2026 (needs renewal)
   Nicole Heinrich                     | expires 04/30/2026 (needs renewal)
-  Nicole Pettineo                     | expires 04/30/2026 (needs renewal)
   Nicole Vander Mey                   | expires 04/30/2026 (needs renewal)
   Nikyta Triplett-Williams            | expires 04/30/2026 (needs renewal)
   Nilambanu Vahora                    | expires 04/30/2026 (needs renewal)
@@ -821,7 +827,6 @@ Total needing renewal:        784
   Parag Shah                          | expires 04/30/2026 (needs renewal)
   Parimal Mehta                       | expires 04/30/2026 (needs renewal)
   Patricia Bryant                     | expires 04/30/2026 (needs renewal)
-  Patricia Jones-Henderson            | expires 04/30/2026 (needs renewal)
   Patrick Boghra                      | expires 04/30/2026 (needs renewal)
   Patrick Zelazko                     | expires 04/30/2026 (needs renewal)
   Paul Eru                            | expires 04/30/2026 (needs renewal)
@@ -874,7 +879,6 @@ Total needing renewal:        784
   Ryan Raymundo                       | expires 04/30/2026 (needs renewal)
   Saad Khatri                         | expires 04/30/2026 (needs renewal)
   Sam Bernstein                       | expires 04/30/2026 (needs renewal)
-  Samantha Perez                      | expires 04/30/2026 (needs renewal)
   Samantha Seybold                    | expires 04/30/2026 (needs renewal)
   Samuel Kauski                       | expires 04/30/2026 (needs renewal)
   Sana Irshad                         | expires 04/30/2026 (needs renewal)
@@ -895,7 +899,6 @@ Total needing renewal:        784
   Shawn Kinkade                       | expires 04/30/2026 (needs renewal)
   Shawn Schneider                     | expires 04/30/2026 (needs renewal)
   Shedrick Hines                      | expires 04/30/2026 (needs renewal)
-  Sherrie Winiarski                   | expires 04/30/2026 (needs renewal)
   Sherwyn Driver                      | expires 04/30/2026 (needs renewal)
   Siobhan Ricciardi                   | expires 04/30/2026 (needs renewal)
   Sobhi Mhtachem                      | expires 04/30/2026 (needs renewal)
@@ -928,7 +931,6 @@ Total needing renewal:        784
   Tariq Ashkar                        | expires 04/30/2026 (needs renewal)
   Tarniece Miller                     | expires 04/30/2026 (needs renewal)
   Tasha Odunuyi                       | expires 04/30/2026 (needs renewal)
-  Tatjana Crnomarkovic                | expires 04/30/2026 (needs renewal)
   Taylor Ellis                        | expires 04/30/2026 (needs renewal)
   Taylor Mandell                      | expires 04/30/2026 (needs renewal)
   Taylor West                         | expires 04/30/2026 (needs renewal)
@@ -940,7 +942,6 @@ Total needing renewal:        784
   Thomas Howard                       | expires 04/30/2026 (needs renewal)
   Thomas Pearl                        | expires 04/30/2026 (needs renewal)
   Thomas Secson                       | expires 04/30/2026 (needs renewal)
-  Tiffany Cassin                      | expires 04/30/2026 (needs renewal)
   Tiffany Long-Peterson               | expires 04/30/2026 (needs renewal)
   Tishawna Bell                       | expires 04/30/2026 (needs renewal)
   Todd Grant                          | expires 04/30/2026 (needs renewal)
@@ -987,7 +988,7 @@ Total needing renewal:        784
   Yvonne King                         | expires 04/30/2026 (needs renewal)
   Zachary Wilcox                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (22) ---
+--- Unmatched DFPR (Manual Review) (23) ---
   GOTHRA MANJIT                       | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2026
   PARLEIR DAVID                       | Exp: 04/30/2027
@@ -1003,6 +1004,7 @@ Total needing renewal:        784
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
+  JONES MARY                          | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
   SANTOS ELIZABETH                    | Exp: 04/30/2028
