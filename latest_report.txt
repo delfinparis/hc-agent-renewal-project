@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-04-03
+[HC] License Renewal Report — 2026-04-05
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     291
-KEEP (needs renewal):         686
+REMOVE (already renewed):     293
+KEEP (needs renewal):         684
 KEEP (no match in DFPR):      75
-Total needing renewal:        761
+Total needing renewal:        759
 
---- Agents Who Renewed (291) ---
+--- Agents Who Renewed (293) ---
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
   Admir Hot                           | expires 07/31/2026 (already renewed)
   Aelna Joseph                        | expires 04/30/2028 (already renewed)
@@ -133,6 +133,7 @@ Total needing renewal:        761
   Jeffrey Belden                      | expires 04/30/2028 (already renewed)
   Jeffrey Dachman                     | expires 04/30/2028 (already renewed)
   Jennifer Ladzinski                  | expires 04/30/2028 (already renewed)
+  Jennifer Nardone                    | expires 04/30/2028 (already renewed)
   Jeremy Raman                        | expires 04/30/2028 (already renewed)
   Jessica McElroy                     | expires 04/30/2028 (already renewed)
   Joan Murray                         | expires 04/30/2028 (already renewed)
@@ -147,7 +148,6 @@ Total needing renewal:        761
   John Michaels                       | expires 04/30/2028 (already renewed)
   John Strong                         | expires 04/30/2027 (already renewed)
   John Willis                         | expires 04/30/2028 (already renewed)
-  Joseph G Willard                    | expires 04/30/2028 (already renewed)
   Joseph Ostrander                    | expires 04/30/2028 (already renewed)
   Joseph Tinerino                     | expires 04/30/2028 (already renewed)
   Julie Johnson                       | expires 04/30/2028 (already renewed)
@@ -180,6 +180,7 @@ Total needing renewal:        761
   Lesley Hamre                        | expires 04/30/2028 (already renewed)
   Lida Giannini                       | expires 04/30/2027 (already renewed)
   Linda Sanders                       | expires 04/30/2028 (already renewed)
+  Lindsay Hall                        | expires 04/30/2028 (already renewed)
   Lisa Vanstory                       | expires 04/30/2028 (already renewed)
   Lorile Herlihy                      | expires 04/30/2027 (already renewed)
   Lucio Gonzalez                      | expires 04/30/2028 (already renewed)
@@ -290,6 +291,7 @@ Total needing renewal:        761
   Vincent Washington                  | expires 04/30/2028 (already renewed)
   Vint Hoffeditz                      | expires 04/30/2028 (already renewed)
   Violet Hakopian                     | expires 04/30/2028 (already renewed)
+  Vito Capriati                       | expires 04/30/2028 (already renewed)
   Vladica Milosavljevic               | expires 04/30/2028 (already renewed)
   Wendi Reid                          | expires 04/30/2028 (already renewed)
   Wolfgang Suess                      | expires 04/30/2028 (already renewed)
@@ -300,7 +302,7 @@ Total needing renewal:        761
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (686) ---
+--- Agents Still Needing Renewal (684) ---
   Aaron Clark                         | expires 04/30/2026 (needs renewal)
   Abby Koehn                          | expires 04/30/2026 (needs renewal)
   Adam Codilis                        | expires 04/30/2026 (needs renewal)
@@ -584,7 +586,6 @@ Total needing renewal:        761
   Jennifer Marshall                   | expires 04/30/2026 (needs renewal)
   Jennifer McGregor                   | expires 04/30/2026 (needs renewal)
   Jennifer Miller                     | expires 04/30/2026 (needs renewal)
-  Jennifer Nardone                    | expires 04/30/2026 (needs renewal)
   Jennifer Pilkington                 | expires 04/30/2026 (needs renewal)
   Jennifer Saigh                      | expires 04/30/2026 (needs renewal)
   Jenny McFadden                      | expires 04/30/2026 (needs renewal)
@@ -713,7 +714,6 @@ Total needing renewal:        761
   Leyla Khanahmad                     | expires 04/30/2026 (needs renewal)
   Linda Coffey                        | expires 04/30/2026 (needs renewal)
   Linda Jacobs                        | expires 04/30/2026 (needs renewal)
-  Lindsay Hall                        | expires 04/30/2026 (needs renewal)
   Lindsey Thomas                      | expires 04/30/2026 (needs renewal)
   Linlin Xu                           | expires 04/30/2026 (needs renewal)
   Linus Kiefer                        | expires 04/30/2026 (needs renewal)
@@ -953,6 +953,7 @@ Total needing renewal:        761
   Tracy Magyar                        | expires 04/30/2026 (needs renewal)
   Trena Morse                         | expires 04/30/2026 (needs renewal)
   Troy Smith                          | expires 04/30/2026 (needs renewal)
+  Tyler Sakovich                      | expires 04/30/2026 (needs renewal)
   Tyree Glass                         | expires 04/30/2026 (needs renewal)
   Uda Potgieter                       | expires 04/30/2026 (needs renewal)
   Vadim Roshass                       | expires 04/30/2026 (needs renewal)
@@ -968,7 +969,6 @@ Total needing renewal:        761
   Violeta Arias                       | expires 04/30/2026 (needs renewal)
   Virginia Flores                     | expires 04/30/2026 (needs renewal)
   Vitaliy Puzan                       | expires 04/30/2026 (needs renewal)
-  Vito Capriati                       | expires 04/30/2026 (needs renewal)
   Walter Smith                        | expires 04/30/2026 (needs renewal)
   Wei Guo                             | expires 04/30/2026 (needs renewal)
   William "Bill"Christensen           | expires 04/30/2026 (needs renewal)
@@ -988,7 +988,7 @@ Total needing renewal:        761
   Yvonne King                         | expires 04/30/2026 (needs renewal)
   Zachary Wilcox                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (26) ---
+--- Unmatched DFPR (Manual Review) (27) ---
   HOGAN CODY                          | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2026
@@ -1008,6 +1008,7 @@ Total needing renewal:        761
   CLARKE LEENA                        | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
+  ISUFI DORIANA                       | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
   SANTOS ELIZABETH                    | Exp: 04/30/2028
