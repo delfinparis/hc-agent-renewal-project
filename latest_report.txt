@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-04-09
+[HC] License Renewal Report — 2026-04-10
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     334
-KEEP (needs renewal):         642
-KEEP (no match in DFPR):      90
-Total needing renewal:        732
+KEEP (needs renewal):         643
+KEEP (no match in DFPR):      77
+Total needing renewal:        720
 
 --- Agents Who Renewed (334) ---
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -130,7 +130,6 @@ Total needing renewal:        732
   Heidi Wade                          | expires 04/30/2028 (already renewed)
   Hohyung Lee                         | expires 04/30/2028 (already renewed)
   Hongnan Chen                        | expires 04/30/2028 (already renewed)
-  Howard Sutherlin Sr                 | expires 04/30/2028 (already renewed)
   Hughie Walsh                        | expires 04/30/2028 (already renewed)
   Ike Ezeokafor                       | expires 04/30/2028 (already renewed)
   Ivica Poposki                       | expires 04/30/2028 (already renewed)
@@ -173,6 +172,7 @@ Total needing renewal:        732
   Kamila Kowalczyk                    | expires 04/30/2028 (already renewed)
   Karen Scully                        | expires 04/30/2028 (already renewed)
   Karlton Uhm                         | expires 04/30/2028 (already renewed)
+  Karolina Liaukevicius               | expires 04/30/2028 (already renewed)
   Kathleen Raines (Caruso)            | expires 04/30/2028 (already renewed)
   Keith Jacobson                      | expires 04/30/2028 (already renewed)
   Kevin Glovack                       | expires 04/30/2028 (already renewed)
@@ -343,7 +343,7 @@ Total needing renewal:        732
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (642) ---
+--- Agents Still Needing Renewal (643) ---
   Aaron Clark                         | expires 04/30/2026 (needs renewal)
   Abby Koehn                          | expires 04/30/2026 (needs renewal)
   Adam Codilis                        | expires 04/30/2026 (needs renewal)
@@ -487,6 +487,7 @@ Total needing renewal:        732
   Darrell Parks                       | expires 04/30/2026 (needs renewal)
   Darrick Kim                         | expires 04/30/2026 (needs renewal)
   David Buddingh                      | expires 04/30/2026 (needs renewal)
+  David Greaves                       | expires 04/30/2026 (needs renewal)
   David Kaczmarczyk                   | expires 04/30/2026 (needs renewal)
   David Reis                          | expires 04/30/2026 (needs renewal)
   David Shimberg                      | expires 04/30/2026 (needs renewal)
@@ -987,7 +988,7 @@ Total needing renewal:        732
   Yvonne King                         | expires 04/30/2026 (needs renewal)
   Zachary Wilcox                      | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (37) ---
+--- Unmatched DFPR (Manual Review) (30) ---
   HOGAN CODY                          | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2026
@@ -1018,10 +1019,3 @@ Total needing renewal:        732
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
-  WILLIS JOHN                         | Exp: 04/30/2028
-  SCHAEFER DANIELLE                   | Exp: 04/30/2028
-  KIRSCH SHARLENE                     | Exp: 04/30/2028
-  FRANKEN GABRIEL                     | Exp: 04/30/2028
-  PAUDEL SHREEJANA                    | Exp: 04/30/2028
-  KOWALSKI OLGA                       | Exp: 04/30/2028
-  TRAJKOVIKJ MARIJA                   | Exp: 04/30/2028
