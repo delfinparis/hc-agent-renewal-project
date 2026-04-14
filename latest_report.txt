@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-04-13
+[HC] License Renewal Report — 2026-04-14
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     355
-KEEP (needs renewal):         615
-KEEP (no match in DFPR):      76
-Total needing renewal:        691
+KEEP (needs renewal):         613
+KEEP (no match in DFPR):      77
+Total needing renewal:        690
 
 --- Agents Who Renewed (355) ---
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -364,7 +364,7 @@ Total needing renewal:        691
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (615) ---
+--- Agents Still Needing Renewal (613) ---
   Aaron Clark                         | expires 04/30/2026 (needs renewal)
   Abby Koehn                          | expires 04/30/2026 (needs renewal)
   Adam Codilis                        | expires 04/30/2026 (needs renewal)
@@ -470,7 +470,6 @@ Total needing renewal:        691
   Carli Jae Miller                    | expires 04/30/2026 (needs renewal)
   Carol Knudson                       | expires 04/30/2026 (needs renewal)
   Carol Medina                        | expires 04/30/2026 (needs renewal)
-  Carol Smith                         | expires 04/30/2026 (needs renewal)
   Carolyn Jones                       | expires 04/30/2026 (needs renewal)
   Caterina Savino                     | expires 04/30/2026 (needs renewal)
   Catherine Cameron                   | expires 04/30/2026 (needs renewal)
@@ -957,7 +956,6 @@ Total needing renewal:        691
   Vera Parashchak                     | expires 04/30/2026 (needs renewal)
   Vernadine Kornegay                  | expires 04/30/2026 (needs renewal)
   Veronika Kubski                     | expires 04/30/2026 (needs renewal)
-  Vickie Wettstein                    | expires 04/30/2026 (needs renewal)
   Victoria Hallman                    | expires 04/30/2026 (needs renewal)
   Victoria Siljendahl                 | expires 04/30/2026 (needs renewal)
   Violeta Arias                       | expires 04/30/2026 (needs renewal)
@@ -992,23 +990,23 @@ Total needing renewal:        691
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
   BRUCE PRESTON PRINCE                | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
+  KIM CHOONG                          | Exp: 04/30/2028
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
-  KIM CHOONG                          | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
+  TYLKA ANDY                          | Exp: 04/30/2027
   JONES MARY                          | Exp: 04/30/2028
   SPAHR LAUREN                        | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
-  TYLKA ANDY                          | Exp: 04/30/2027
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
