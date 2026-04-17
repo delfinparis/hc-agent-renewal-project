@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-04-16
+[HC] License Renewal Report — 2026-04-17
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     409
 KEEP (needs renewal):         556
-KEEP (no match in DFPR):      77
-Total needing renewal:        633
+KEEP (no match in DFPR):      79
+Total needing renewal:        635
 
 --- Agents Who Renewed (409) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
