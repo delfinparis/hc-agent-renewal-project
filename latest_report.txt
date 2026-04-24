@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-04-23
+[HC] License Renewal Report — 2026-04-24
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     494
-KEEP (needs renewal):         465
+KEEP (needs renewal):         464
 KEEP (no match in DFPR):      81
-Total needing renewal:        546
+Total needing renewal:        545
 
 --- Agents Who Renewed (494) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
@@ -503,7 +503,7 @@ Total needing renewal:        546
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (465) ---
+--- Agents Still Needing Renewal (464) ---
   Abby Koehn                          | expires 04/30/2026 (needs renewal)
   Adam Codilis                        | expires 04/30/2026 (needs renewal)
   Adrienne Furniss                    | expires 04/30/2026 (needs renewal)
@@ -611,7 +611,6 @@ Total needing renewal:        546
   Cynthia Osta                        | expires 04/30/2026 (needs renewal)
   Dalton Brown                        | expires 04/30/2026 (needs renewal)
   Daniel Hundman                      | expires 04/30/2026 (needs renewal)
-  Danny Chin                          | expires 04/30/2026 (needs renewal)
   Darnell King                        | expires 04/30/2026 (needs renewal)
   David Buddingh                      | expires 04/30/2026 (needs renewal)
   David Greaves                       | expires 04/30/2026 (needs renewal)
@@ -896,7 +895,6 @@ Total needing renewal:        546
   Ross Failla                         | expires 04/30/2026 (needs renewal)
   Rupal Stader-Shaw                   | expires 04/30/2026 (needs renewal)
   Russell Wick                        | expires 04/30/2026 (needs renewal)
-  Ryan Canfield                       | expires 04/30/2026 (needs renewal)
   Ryan Przybyl                        | expires 04/30/2026 (needs renewal)
   Ryan Raymundo                       | expires 04/30/2026 (needs renewal)
   Saad Khatri                         | expires 04/30/2026 (needs renewal)
@@ -962,6 +960,7 @@ Total needing renewal:        546
   Wei Guo                             | expires 04/30/2026 (needs renewal)
   William Alexander                   | expires 04/30/2026 (needs renewal)
   William Leon                        | expires 04/30/2026 (needs renewal)
+  Xiaohui Chavez                      | expires 04/30/2026 (needs renewal)
   Yana Aliyev                         | expires 04/30/2026 (needs renewal)
   Yang Liu                            | expires 04/30/2026 (needs renewal)
   Yasin Baig                          | expires 04/30/2026 (needs renewal)
@@ -1028,6 +1027,7 @@ Total needing renewal:        546
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
+  JONES MARY                          | Exp: 04/30/2028
   TUCKER LARECIA                      | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
@@ -1035,7 +1035,6 @@ Total needing renewal:        546
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   LISDERO VALLORY                     | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
-  JONES MARY                          | Exp: 04/30/2028
   RODRIGUEZ RIGOBERTO                 | Exp: 04/30/2028
   JONES-HENDERSON PATRICIA            | Exp: 04/30/2028
   DAVIS DAPHANE                       | Exp: 04/30/2028
