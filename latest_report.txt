@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-04-28
+[HC] License Renewal Report — 2026-04-29
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     573
-KEEP (needs renewal):         379
+REMOVE (already renewed):     574
+KEEP (needs renewal):         376
 KEEP (no match in DFPR):      82
-Total needing renewal:        461
+Total needing renewal:        458
 
---- Agents Who Renewed (573) ---
+--- Agents Who Renewed (574) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
   Adia Currie                         | expires 04/30/2028 (already renewed)
@@ -206,6 +206,7 @@ Total needing renewal:        461
   Hifza Malik                         | expires 04/30/2028 (already renewed)
   Hohyung Lee                         | expires 04/30/2028 (already renewed)
   Hongnan Chen                        | expires 04/30/2028 (already renewed)
+  Howard Sutherlin Sr                 | expires 04/30/2028 (already renewed)
   Hughie Walsh                        | expires 04/30/2028 (already renewed)
   Ike Ezeokafor                       | expires 04/30/2028 (already renewed)
   Ina Jones                           | expires 04/30/2028 (already renewed)
@@ -582,11 +583,12 @@ Total needing renewal:        461
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (379) ---
+--- Agents Still Needing Renewal (376) ---
   Abby Koehn                          | expires 04/30/2026 (needs renewal)
   Adam Codilis                        | expires 04/30/2026 (needs renewal)
   Agnes Siksnus                       | expires 04/30/2026 (needs renewal)
   Ahmed Alaoui                        | expires 04/30/2026 (needs renewal)
+  Alan Adame                          | expires 04/30/2026 (needs renewal)
   Alberto Rincon                      | expires 04/30/2026 (needs renewal)
   Alesia McKinley                     | expires 04/30/2026 (needs renewal)
   Alexander Luis Rodriguez-Cortes     | expires 04/30/2026 (needs renewal)
@@ -616,13 +618,11 @@ Total needing renewal:        461
   Ashleigh Kondracki                  | expires 04/30/2026 (needs renewal)
   Ashley Currin                       | expires 04/30/2026 (needs renewal)
   Ashley Maldonado                    | expires 04/30/2026 (needs renewal)
-  Asiya Iskakova                      | expires 04/30/2026 (needs renewal)
   Aubrey Graves                       | expires 04/30/2026 (needs renewal)
   Bailey Kyllonen                     | expires 04/30/2026 (needs renewal)
   Baitul Javid                        | expires 04/30/2026 (needs renewal)
   Balinda Henderson                   | expires 04/30/2026 (needs renewal)
   Barbara Ariagno                     | expires 04/30/2026 (needs renewal)
-  Barbara Martin                      | expires 04/30/2026 (needs renewal)
   Belinda Brown                       | expires 04/30/2026 (needs renewal)
   Bernetta Taylor                     | expires 04/30/2026 (needs renewal)
   Bilha Salomon                       | expires 04/30/2026 (needs renewal)
@@ -630,7 +630,6 @@ Total needing renewal:        461
   Blake Hebeler                       | expires 04/30/2026 (needs renewal)
   Blanca Lee                          | expires 04/30/2026 (needs renewal)
   Bobby Dale                          | expires 04/30/2026 (needs renewal)
-  Bonnie Kenney                       | expires 04/30/2026 (needs renewal)
   Brandi Seiwert                      | expires 04/30/2026 (needs renewal)
   Brandon Freeman                     | expires 04/30/2026 (needs renewal)
   Brandyn Livingston                  | expires 04/30/2026 (needs renewal)
@@ -839,6 +838,7 @@ Total needing renewal:        461
   Mary C Tortorici                    | expires 04/30/2026 (needs renewal)
   Mary Ellen O'Grady                  | expires 04/30/2026 (needs renewal)
   Marzieh Bastanipour                 | expires 04/30/2026 (needs renewal)
+  Matthew Cremins                     | expires 04/30/2026 (needs renewal)
   Matthew Spahr                       | expires 04/30/2026 (needs renewal)
   Max Opalinski                       | expires 04/30/2026 (needs renewal)
   Megan Hewitt                        | expires 04/30/2026 (needs renewal)
@@ -930,11 +930,9 @@ Total needing renewal:        461
   Tanesia Simmons                     | expires 04/30/2026 (needs renewal)
   Tapeka Tolbert                      | expires 04/30/2026 (needs renewal)
   Tariq Ashkar                        | expires 04/30/2026 (needs renewal)
-  Taylor Mandell                      | expires 04/30/2026 (needs renewal)
   Temple Schultz                      | expires 04/30/2026 (needs renewal)
   Terence Brown                       | expires 04/30/2026 (needs renewal)
   Teresa Jones                        | expires 04/30/2026 (needs renewal)
-  Terra Ritchie                       | expires 04/30/2026 (needs renewal)
   Thomas Pearl                        | expires 04/30/2026 (needs renewal)
   Tishawna Bell                       | expires 04/30/2026 (needs renewal)
   Todd Smith                          | expires 04/30/2026 (needs renewal)
