@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-05-05
+[HC] License Renewal Report — 2026-05-07
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     775
-KEEP (needs renewal):         163
-KEEP (no match in DFPR):      90
-Total needing renewal:        253
+REMOVE (already renewed):     776
+KEEP (needs renewal):         160
+KEEP (no match in DFPR):      89
+Total needing renewal:        249
 
---- Agents Who Renewed (775) ---
+--- Agents Who Renewed (776) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -46,7 +46,6 @@ Total needing renewal:        253
   Amina Parks                         | expires 04/30/2028 (already renewed)
   Amy Davis                           | expires 04/30/2028 (already renewed)
   Amy Ferguson                        | expires 04/30/2028 (already renewed)
-  Amy Nevitt                          | expires 04/30/2028 (already renewed)
   Amy Russian-Crist                   | expires 04/30/2028 (already renewed)
   Ana Lopez                           | expires 04/30/2028 (already renewed)
   Ana Mois-Gilla                      | expires 04/30/2028 (already renewed)
@@ -159,13 +158,13 @@ Total needing renewal:        253
   Colleen Quinn Grubbs                | expires 04/30/2028 (already renewed)
   Collin Brunton                      | expires 04/30/2028 (already renewed)
   Constance Rasmussen                 | expires 04/30/2028 (already renewed)
+  Corey Pottard                       | expires 04/30/2028 (already renewed)
   Costinel Mirea                      | expires 04/30/2028 (already renewed)
   Courtney Vaninger                   | expires 04/30/2028 (already renewed)
   Craig Cooley                        | expires 04/30/2028 (already renewed)
   Crystal Del Rio                     | expires 04/30/2028 (already renewed)
   Crystal Martinez                    | expires 04/30/2028 (already renewed)
   Cynthia Benson                      | expires 04/30/2028 (already renewed)
-  Dalton Brown                        | expires 04/30/2028 (already renewed)
   Dana Dotson                         | expires 04/30/2028 (already renewed)
   Dana Jarvis                         | expires 04/30/2028 (already renewed)
   Dana Wolfson                        | expires 04/30/2028 (already renewed)
@@ -297,6 +296,7 @@ Total needing renewal:        253
   Jacqueline Walker                   | expires 04/30/2027 (already renewed)
   Jacquelyn Santo                     | expires 04/30/2028 (already renewed)
   Jade Chabolla                       | expires 04/30/2028 (already renewed)
+  Jafa Smith                          | expires 04/30/2028 (already renewed)
   Jaimee Chantharangsy                | expires 04/30/2028 (already renewed)
   Jamal J Norwood                     | expires 04/30/2028 (already renewed)
   James Campian Jr                    | expires 07/31/2026 (already renewed)
@@ -621,6 +621,7 @@ Total needing renewal:        253
   Rebecca Vucko                       | expires 04/30/2028 (already renewed)
   Reema Raza                          | expires 04/30/2028 (already renewed)
   Regina Lynch                        | expires 04/30/2028 (already renewed)
+  Reginald Buchanan                   | expires 04/30/2028 (already renewed)
   Renata Bernatonis                   | expires 04/30/2028 (already renewed)
   Renee Matthews-Cravens              | expires 04/30/2028 (already renewed)
   Reynaldo Ymson                      | expires 04/30/2028 (already renewed)
@@ -784,7 +785,7 @@ Total needing renewal:        253
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (163) ---
+--- Agents Still Needing Renewal (160) ---
   Ahmed Alaoui                        | expires 04/30/2026 (needs renewal)
   Amanda McCoy                        | expires 04/30/2026 (needs renewal)
   Amanda Piscaglia                    | expires 04/30/2026 (needs renewal)
@@ -810,7 +811,6 @@ Total needing renewal:        253
   Christina Chase                     | expires 04/30/2026 (needs renewal)
   Christine Chavez                    | expires 04/30/2026 (needs renewal)
   Cindy Baker                         | expires 04/30/2026 (needs renewal)
-  Corey Pottard                       | expires 04/30/2026 (needs renewal)
   Courtney Taylor                     | expires 04/30/2026 (needs renewal)
   Cynthia Osta                        | expires 04/30/2026 (needs renewal)
   Daniel Hundman                      | expires 04/30/2026 (needs renewal)
@@ -845,7 +845,6 @@ Total needing renewal:        253
   Ivette Torres                       | expires 04/30/2026 (needs renewal)
   Jack Katz                           | expires 04/30/2026 (needs renewal)
   Jacklyn Cvitanovich                 | expires 04/30/2026 (needs renewal)
-  Jafa Smith                          | expires 04/30/2026 (needs renewal)
   Jais Kurian                         | expires 04/30/2026 (needs renewal)
   Jameelah Atiq                       | expires 04/30/2026 (needs renewal)
   James B Stewart                     | expires 04/30/2026 (needs renewal)
@@ -921,7 +920,6 @@ Total needing renewal:        253
   Quintella Barnes                    | expires 04/30/2026 (needs renewal)
   Regina Rafferty                     | expires 04/30/2026 (needs renewal)
   Regina Vocaty                       | expires 04/30/2026 (needs renewal)
-  Reginald Buchanan                   | expires 04/30/2026 (needs renewal)
   Ricardo Davila                      | expires 04/30/2026 (needs renewal)
   Riece Wilder                        | expires 04/30/2026 (needs renewal)
   Robyn Johnston                      | expires 04/30/2026 (needs renewal)
@@ -949,7 +947,7 @@ Total needing renewal:        253
   Virginia Flores                     | expires 04/30/2026 (needs renewal)
   Yana Aliyev                         | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (69) ---
+--- Unmatched DFPR (Manual Review) (68) ---
   MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
@@ -958,7 +956,6 @@ Total needing renewal:        253
   nan nan                             | Exp: 10/31/2026
   PARLEIR DAVID                       | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
-  WOODS ULMA                          | Exp: 04/30/2028
   FISHER JENERRA                      | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
