@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-05-07
+[HC] License Renewal Report — 2026-05-08
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     776
+REMOVE (already renewed):     774
 KEEP (needs renewal):         160
 KEEP (no match in DFPR):      89
 Total needing renewal:        249
 
---- Agents Who Renewed (776) ---
+--- Agents Who Renewed (774) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -506,7 +506,6 @@ Total needing renewal:        249
   Mary Ann Kiefer                     | expires 04/30/2028 (already renewed)
   Mary Beth Fanto                     | expires 04/30/2028 (already renewed)
   Mary Ellen Hoye                     | expires 04/30/2028 (already renewed)
-  Mary Ellen O'Grady                  | expires 04/30/2028 (already renewed)
   Mary Love                           | expires 04/30/2028 (already renewed)
   Mary Poani                          | expires 04/30/2027 (already renewed)
   Marybeth Rhebergen                  | expires 04/30/2028 (already renewed)
@@ -739,7 +738,6 @@ Total needing renewal:        249
   Travis Koran                        | expires 04/30/2027 (already renewed)
   Trena Morse                         | expires 04/30/2028 (already renewed)
   Troy Smith                          | expires 04/30/2028 (already renewed)
-  Tyler Sakovich                      | expires 04/30/2028 (already renewed)
   Uda Potgieter                       | expires 04/30/2028 (already renewed)
   Vadim Roshass                       | expires 04/30/2028 (already renewed)
   Valarie Special                     | expires 04/30/2028 (already renewed)
@@ -960,10 +958,10 @@ Total needing renewal:        249
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
+  BRUCE PRESTON PRINCE                | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
-  BRUCE PRESTON PRINCE                | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   LUCIANI BROOKE                      | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
@@ -975,6 +973,7 @@ Total needing renewal:        249
   LEVEQUE EMILY                       | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
+  PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
@@ -982,7 +981,6 @@ Total needing renewal:        249
   NITSCH MONICA                       | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
-  PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
@@ -1011,8 +1009,8 @@ Total needing renewal:        249
   KIANI ZAHRA                         | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
+  BAXTER ALEXANDER R                  | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   STASYTIS OVIDIJUS                   | Exp: 04/30/2028
-  BAXTER ALEXANDER R                  | Exp: 04/30/2028
