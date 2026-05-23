@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-05-21
+[HC] License Renewal Report — 2026-05-23
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     779
-KEEP (needs renewal):         152
+KEEP (needs renewal):         153
 KEEP (no match in DFPR):      85
-Total needing renewal:        237
+Total needing renewal:        238
 
 --- Agents Who Renewed (779) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
@@ -788,7 +788,7 @@ Total needing renewal:        237
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (152) ---
+--- Agents Still Needing Renewal (153) ---
   Ahmed Alaoui                        | expires 04/30/2026 (needs renewal)
   Amanda McCoy                        | expires 04/30/2026 (needs renewal)
   Amanda Piscaglia                    | expires 04/30/2026 (needs renewal)
@@ -886,6 +886,7 @@ Total needing renewal:        237
   Lonnie Camer                        | expires 04/30/2026 (needs renewal)
   Luis Rivera Garcia                  | expires 04/30/2026 (needs renewal)
   Luteckeler Rowland                  | expires 04/30/2026 (needs renewal)
+  Lydia Jordanovic                    | expires 04/30/2026 (needs renewal)
   Mabel Medina                        | expires 04/30/2026 (needs renewal)
   Margaux Clement                     | expires 04/30/2026 (needs renewal)
   Marie Johnson                       | expires 04/30/2026 (needs renewal)
