@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-05-31
+[HC] License Renewal Report — 2026-06-02
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     779
-KEEP (needs renewal):         151
+KEEP (needs renewal):         149
 KEEP (no match in DFPR):      85
-Total needing renewal:        236
+Total needing renewal:        234
 
 --- Agents Who Renewed (779) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
@@ -130,7 +130,6 @@ Total needing renewal:        236
   Carol Medina                        | expires 04/30/2028 (already renewed)
   Carolyn Jones                       | expires 04/30/2028 (already renewed)
   Cassidy Schwoebel                   | expires 04/30/2028 (already renewed)
-  Caterina Savino                     | expires 04/30/2028 (already renewed)
   Catherine Cameron                   | expires 04/30/2028 (already renewed)
   Catherine Cloyd                     | expires 04/30/2028 (already renewed)
   Cathleen Keasey                     | expires 04/30/2028 (already renewed)
@@ -410,6 +409,7 @@ Total needing renewal:        236
   Katrina Gatuz                       | expires 04/30/2028 (already renewed)
   Katrina Spears                      | expires 04/30/2028 (already renewed)
   Kayla Ledbetter                     | expires 04/30/2028 (already renewed)
+  Kazz Dawson                         | expires 04/30/2028 (already renewed)
   Keith Jacobson                      | expires 04/30/2028 (already renewed)
   Keith Jefferson                     | expires 04/30/2028 (already renewed)
   Keith Klebacha                      | expires 04/30/2028 (already renewed)
@@ -788,7 +788,7 @@ Total needing renewal:        236
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (151) ---
+--- Agents Still Needing Renewal (149) ---
   Ahmed Alaoui                        | expires 04/30/2026 (needs renewal)
   Amanda McCoy                        | expires 04/30/2026 (needs renewal)
   Amanda Piscaglia                    | expires 04/30/2026 (needs renewal)
@@ -800,7 +800,6 @@ Total needing renewal:        236
   Angela Carbonara                    | expires 04/30/2026 (needs renewal)
   Aubrey Graves                       | expires 04/30/2026 (needs renewal)
   Bailey Kyllonen                     | expires 04/30/2026 (needs renewal)
-  Barbara Ariagno                     | expires 04/30/2026 (needs renewal)
   Bernetta Taylor                     | expires 04/30/2026 (needs renewal)
   Bing Tie                            | expires 04/30/2026 (needs renewal)
   Brandyn Livingston                  | expires 04/30/2026 (needs renewal)
@@ -927,7 +926,6 @@ Total needing renewal:        236
   Shannon Hannemann                   | expires 04/30/2026 (needs renewal)
   Shannon Powers                      | expires 04/30/2026 (needs renewal)
   Shawauna Kelly                      | expires 04/30/2026 (needs renewal)
-  Shawn Kinkade                       | expires 04/30/2026 (needs renewal)
   Sobhi Mhtachem                      | expires 04/30/2026 (needs renewal)
   Steven Glasser                      | expires 04/30/2026 (needs renewal)
   Suzan Barakat                       | expires 04/30/2026 (needs renewal)
