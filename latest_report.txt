@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-06-07
+[HC] License Renewal Report — 2026-06-11
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     779
-KEEP (needs renewal):         149
-KEEP (no match in DFPR):      86
-Total needing renewal:        235
+REMOVE (already renewed):     777
+KEEP (needs renewal):         147
+KEEP (no match in DFPR):      87
+Total needing renewal:        234
 
---- Agents Who Renewed (779) ---
+--- Agents Who Renewed (777) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -206,7 +206,6 @@ Total needing renewal:        235
   Dorthea Willingham                  | expires 04/30/2028 (already renewed)
   Drazenko Jozic                      | expires 04/30/2028 (already renewed)
   Dylan Rowland                       | expires 04/30/2028 (already renewed)
-  Edith Monroy                        | expires 04/30/2028 (already renewed)
   Eduardo Galvez                      | expires 04/30/2028 (already renewed)
   Eduardo Velez                       | expires 04/30/2028 (already renewed)
   Edyta Bajena                        | expires 04/30/2028 (already renewed)
@@ -450,6 +449,7 @@ Total needing renewal:        235
   Larniecia Smith                     | expires 07/31/2026 (already renewed)
   Larry Chen                          | expires 04/30/2027 (already renewed)
   Latasha Harrington                  | expires 04/30/2028 (already renewed)
+  Laura Barrera                       | expires 04/30/2028 (already renewed)
   Laura Kaplan                        | expires 04/30/2028 (already renewed)
   Laura Lasko                         | expires 04/30/2028 (already renewed)
   Laura Speer                         | expires 04/30/2028 (already renewed)
@@ -459,7 +459,6 @@ Total needing renewal:        235
   Lauren Johnson                      | expires 04/30/2028 (already renewed)
   Laurie Lange                        | expires 04/30/2028 (already renewed)
   Laury Li                            | expires 04/30/2028 (already renewed)
-  Lawrence Williams                   | expires 04/30/2027 (already renewed)
   Leonid Pinskiy                      | expires 04/30/2028 (already renewed)
   Leonid Shtern                       | expires 04/30/2028 (already renewed)
   Lesley Hamre                        | expires 04/30/2028 (already renewed)
@@ -742,7 +741,6 @@ Total needing renewal:        235
   Tracy Magyar                        | expires 04/30/2028 (already renewed)
   Travis Koran                        | expires 04/30/2027 (already renewed)
   Trena Morse                         | expires 04/30/2028 (already renewed)
-  Troy Smith                          | expires 04/30/2028 (already renewed)
   Tyree Glass                         | expires 04/30/2028 (already renewed)
   Uda Potgieter                       | expires 04/30/2028 (already renewed)
   Vadim Roshass                       | expires 04/30/2028 (already renewed)
@@ -788,7 +786,7 @@ Total needing renewal:        235
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (149) ---
+--- Agents Still Needing Renewal (147) ---
   Ahmed Alaoui                        | expires 04/30/2026 (needs renewal)
   Amanda McCoy                        | expires 04/30/2026 (needs renewal)
   Amanda Piscaglia                    | expires 04/30/2026 (needs renewal)
@@ -801,7 +799,6 @@ Total needing renewal:        235
   Aubrey Graves                       | expires 04/30/2026 (needs renewal)
   Bailey Kyllonen                     | expires 04/30/2026 (needs renewal)
   Bernetta Taylor                     | expires 04/30/2026 (needs renewal)
-  Bing Tie                            | expires 04/30/2026 (needs renewal)
   Brandyn Livingston                  | expires 04/30/2026 (needs renewal)
   Brendan Starr                       | expires 04/30/2026 (needs renewal)
   Brian Harbison                      | expires 04/30/2026 (needs renewal)
@@ -858,7 +855,6 @@ Total needing renewal:        235
   Jonetta Clark                       | expires 04/30/2026 (needs renewal)
   Joshua Ortiz                        | expires 04/30/2026 (needs renewal)
   Joyce Battistone                    | expires 04/30/2026 (needs renewal)
-  Judith Zapka                        | expires 04/30/2026 (needs renewal)
   Julia Traenkenschuh                 | expires 04/30/2026 (needs renewal)
   Justin O'Brien                      | expires 04/30/2026 (needs renewal)
   Kaley Faletti                       | expires 04/30/2026 (needs renewal)
@@ -966,6 +962,7 @@ Total needing renewal:        235
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
   SWETZ HUANG SARAH                   | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
+  RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
@@ -974,13 +971,14 @@ Total needing renewal:        235
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
-  RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
   LIAN BO                             | Exp: 04/30/2028
+  RULE ALISON                         | Exp: 04/30/2028
+  SPAHR LAUREN                        | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
@@ -988,25 +986,23 @@ Total needing renewal:        235
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   HEMAPAT NOINJAN                     | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
+  MA BONNIE HUIMIN                    | Exp: 04/30/2028
   SCIABICA SAM                        | Exp: 04/30/2028
   STAEHLIN NICOLE                     | Exp: 04/30/2028
   GREGORY BROOKE                      | Exp: 04/30/2028
-  RULE ALISON                         | Exp: 04/30/2028
-  SPAHR LAUREN                        | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
   THORPE JEAN                         | Exp: 04/30/2028
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
-  MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
+  STASYTIS OVIDIJUS                   | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
   BAXTER ALEXANDER R                  | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
-  STASYTIS OVIDIJUS                   | Exp: 04/30/2028
