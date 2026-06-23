@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-06-22
+[HC] License Renewal Report — 2026-06-23
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     779
+REMOVE (already renewed):     778
 KEEP (needs renewal):         141
 KEEP (no match in DFPR):      87
 Total needing renewal:        228
 
---- Agents Who Renewed (779) ---
+--- Agents Who Renewed (778) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -534,7 +534,6 @@ Total needing renewal:        228
   Michael Bilton                      | expires 04/30/2028 (already renewed)
   Michael Brixey                      | expires 04/30/2028 (already renewed)
   Michael Burns                       | expires 04/30/2028 (already renewed)
-  Michael Carpintero                  | expires 04/30/2028 (already renewed)
   Michael Emery                       | expires 04/30/2028 (already renewed)
   Michael Ghantous                    | expires 04/30/2028 (already renewed)
   Michael Imhoff                      | expires 04/30/2028 (already renewed)
@@ -992,6 +991,9 @@ Total needing renewal:        228
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
+  HERROLD MARY                        | Exp: 04/30/2028
+  HERROLD MARY                        | Exp: 04/30/2028
+  HERROLD MARY                        | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
@@ -999,6 +1001,3 @@ Total needing renewal:        228
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
   BAXTER ALEXANDER R                  | Exp: 04/30/2028
-  HERROLD MARY                        | Exp: 04/30/2028
-  HERROLD MARY                        | Exp: 04/30/2028
-  HERROLD MARY                        | Exp: 04/30/2028
