@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-06-30
+[HC] License Renewal Report — 2026-07-02
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     780
-KEEP (needs renewal):         140
+KEEP (needs renewal):         138
 KEEP (no match in DFPR):      87
-Total needing renewal:        227
+Total needing renewal:        225
 
 --- Agents Who Renewed (780) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
@@ -146,7 +146,6 @@ Total needing renewal:        227
   Christina Whisenand                 | expires 04/30/2028 (already renewed)
   Christine Maar                      | expires 04/30/2028 (already renewed)
   Christine McCarthy                  | expires 04/30/2028 (already renewed)
-  Christopher Fulton                  | expires 04/30/2028 (already renewed)
   Christopher Nieves                  | expires 04/30/2028 (already renewed)
   Christopher Robles                  | expires 04/30/2028 (already renewed)
   Christopher Skilnik                 | expires 04/30/2028 (already renewed)
@@ -196,6 +195,7 @@ Total needing renewal:        227
   Denise Rich                         | expires 04/30/2028 (already renewed)
   Dennis Huang                        | expires 04/30/2028 (already renewed)
   Desiree Castro Cheatham             | expires 04/30/2028 (already renewed)
+  Dev Rijal                           | expires 04/30/2028 (already renewed)
   Dewayne Reid                        | expires 04/30/2028 (already renewed)
   Diahann Goode                       | expires 04/30/2028 (already renewed)
   Diana Rondone                       | expires 04/30/2028 (already renewed)
@@ -789,7 +789,7 @@ Total needing renewal:        227
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (140) ---
+--- Agents Still Needing Renewal (138) ---
   Ahmed Alaoui                        | expires 04/30/2026 (needs renewal)
   Amanda McCoy                        | expires 04/30/2026 (needs renewal)
   Amanda Piscaglia                    | expires 04/30/2026 (needs renewal)
@@ -812,7 +812,6 @@ Total needing renewal:        227
   Christina Chase                     | expires 04/30/2026 (needs renewal)
   Christine Chavez                    | expires 04/30/2026 (needs renewal)
   Cindy Baker                         | expires 04/30/2026 (needs renewal)
-  Courtney Taylor                     | expires 04/30/2026 (needs renewal)
   Daniel Hundman                      | expires 04/30/2026 (needs renewal)
   Darnell King                        | expires 04/30/2026 (needs renewal)
   David Buddingh                      | expires 04/30/2026 (needs renewal)
@@ -820,7 +819,6 @@ Total needing renewal:        227
   De'Shantelle Janae Childs           | expires 04/30/2026 (needs renewal)
   Deborah Walizer                     | expires 04/30/2026 (needs renewal)
   Derrick Martens                     | expires 04/30/2026 (needs renewal)
-  Dev Rijal                           | expires 04/30/2026 (needs renewal)
   Dina Saquido-Odeste                 | expires 04/30/2026 (needs renewal)
   Ebony Hymon                         | expires 04/30/2026 (needs renewal)
   Eden Esparza                        | expires 04/30/2026 (needs renewal)
@@ -936,11 +934,11 @@ Total needing renewal:        227
   MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
+  GOTHRA MANJIT                       | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2026
   PARLEIR DAVID                       | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
-  GOTHRA MANJIT                       | Exp: 04/30/2028
   FISHER JENERRA                      | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
@@ -992,6 +990,9 @@ Total needing renewal:        227
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
+  HERROLD MARY                        | Exp: 04/30/2028
+  HERROLD MARY                        | Exp: 04/30/2028
+  HERROLD MARY                        | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
@@ -999,6 +1000,3 @@ Total needing renewal:        227
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
   BAXTER ALEXANDER R                  | Exp: 04/30/2028
-  HERROLD MARY                        | Exp: 04/30/2028
-  HERROLD MARY                        | Exp: 04/30/2028
-  HERROLD MARY                        | Exp: 04/30/2028
