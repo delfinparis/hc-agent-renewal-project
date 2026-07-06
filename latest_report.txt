@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-07-05
+[HC] License Renewal Report — 2026-07-06
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -905,22 +905,19 @@ Total needing renewal:        198
   Vanessa Campbell                    | expires 04/30/2026 (needs renewal)
   Yana Aliyev                         | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (83) ---
+--- Unmatched DFPR (Manual Review) (70) ---
   HILL MIRIAM                         | Exp: 04/30/2028
   MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2026
-  POULOS THOMAS                       | Exp: 04/30/2027
   PARLEIR DAVID                       | Exp: 04/30/2027
-  PAVLOCK RUSSELL                     | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
   GOTHRA MANJIT                       | Exp: 04/30/2028
   FISHER JENERRA                      | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
-  BERGER ALICE                        | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   BRUCE PRESTON PRINCE                | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
@@ -929,17 +926,11 @@ Total needing renewal:        198
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
-  DAANE MICHELE                       | Exp: 07/31/2026
-  HOT ADMIR                           | Exp: 07/31/2028
   LUCIANI BROOKE                      | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
-  JAMES DAVID                         | Exp: 07/31/2026
-  HINOJOSA MARIA                      | Exp: 07/31/2026
   KIM CHOONG                          | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
-  ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
-  LA VIE ASTRID                       | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   SWETZ HUANG SARAH                   | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
@@ -951,8 +942,6 @@ Total needing renewal:        198
   BEATY JENESSA                       | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
-  SORENSEN KURT                       | Exp: 04/30/2027
-  JOYCE DANIEL                        | Exp: 04/30/2027
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
@@ -969,7 +958,6 @@ Total needing renewal:        198
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   HEMAPAT NOINJAN                     | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
-  SMITH LARNIECIA                     | Exp: 07/31/2026
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
@@ -983,7 +971,6 @@ Total needing renewal:        198
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
-  KASE SYBILLA                        | Exp: 04/30/2028
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   STASYTIS OVIDIJUS                   | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
