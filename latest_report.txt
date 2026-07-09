@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-07-08
+[HC] License Renewal Report — 2026-07-09
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     781
-KEEP (needs renewal):         113
+REMOVE (already renewed):     780
+KEEP (needs renewal):         112
 KEEP (no match in DFPR):      85
-Total needing renewal:        198
+Total needing renewal:        197
 
---- Agents Who Renewed (781) ---
+--- Agents Who Renewed (780) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -442,7 +442,6 @@ Total needing renewal:        198
   Kristin Peterson                    | expires 04/30/2028 (already renewed)
   Kristina Mitchell                   | expires 04/30/2028 (already renewed)
   Krzysztof Golonka                   | expires 04/30/2028 (already renewed)
-  Kurt Sorensen                       | expires 04/30/2027 (already renewed)
   Kyle Badgley                        | expires 04/30/2028 (already renewed)
   Kyle Kent                           | expires 04/30/2028 (already renewed)
   LaDarian Crosby                     | expires 04/30/2028 (already renewed)
@@ -790,7 +789,7 @@ Total needing renewal:        198
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (113) ---
+--- Agents Still Needing Renewal (112) ---
   Amanda McCoy                        | expires 04/30/2026 (needs renewal)
   Amanda Piscaglia                    | expires 04/30/2026 (needs renewal)
   Andre Brooks                        | expires 04/30/2026 (needs renewal)
@@ -893,7 +892,6 @@ Total needing renewal:        198
   Samuel Kauski                       | expires 04/30/2026 (needs renewal)
   Sandra Mellion                      | expires 04/30/2026 (needs renewal)
   Sean Munson                         | expires 04/30/2026 (needs renewal)
-  Shannon Powers                      | expires 04/30/2026 (needs renewal)
   Shawauna Kelly                      | expires 04/30/2026 (needs renewal)
   Sobhi Mhtachem                      | expires 04/30/2026 (needs renewal)
   Steven Glasser                      | expires 04/30/2026 (needs renewal)
@@ -992,6 +990,7 @@ Total needing renewal:        198
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   HEMAPAT NOINJAN                     | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
+  THORPE JEAN                         | Exp: 04/30/2028
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
@@ -1000,7 +999,6 @@ Total needing renewal:        198
   KIANI ZAHRA                         | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
-  THORPE JEAN                         | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
