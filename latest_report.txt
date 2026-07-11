@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-07-09
+[HC] License Renewal Report — 2026-07-11
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -177,7 +177,7 @@ Total needing renewal:        197
   Darrick Kim                         | expires 04/30/2028 (already renewed)
   Darsha Patel                        | expires 04/30/2028 (already renewed)
   David Collins                       | expires 04/30/2027 (already renewed)
-  David James                         | expires 07/31/2026 (already renewed)
+  David James                         | expires 07/31/2028 (already renewed)
   David Kaczmarczyk                   | expires 04/30/2028 (already renewed)
   David Matti                         | expires 04/30/2028 (already renewed)
   David Pantelemoniuk                 | expires 04/30/2028 (already renewed)
@@ -210,7 +210,7 @@ Total needing renewal:        197
   Eduardo Galvez                      | expires 04/30/2028 (already renewed)
   Eduardo Velez                       | expires 04/30/2028 (already renewed)
   Edyta Bajena                        | expires 04/30/2028 (already renewed)
-  Edyta Rybka                         | expires 07/31/2026 (already renewed)
+  Edyta Rybka                         | expires 07/31/2028 (already renewed)
   Egle Zilinskis                      | expires 04/30/2028 (already renewed)
   Ekaterina Osina                     | expires 04/30/2028 (already renewed)
   Ekaterina Prytkova                  | expires 04/30/2028 (already renewed)
@@ -496,7 +496,7 @@ Total needing renewal:        197
   Margaret Slaughter                  | expires 04/30/2027 (already renewed)
   Margaret Tessling                   | expires 04/30/2028 (already renewed)
   Maria Correa                        | expires 04/30/2028 (already renewed)
-  Maria Hinojosa                      | expires 07/31/2026 (already renewed)
+  Maria Hinojosa                      | expires 07/31/2028 (already renewed)
   Maria Padilla                       | expires 04/30/2028 (already renewed)
   Maria Sandoval                      | expires 04/30/2028 (already renewed)
   Maria Shepeleva                     | expires 04/30/2028 (already renewed)
@@ -903,51 +903,29 @@ Total needing renewal:        197
   Vanessa Campbell                    | expires 04/30/2026 (needs renewal)
   Yana Aliyev                         | expires 04/30/2026 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (104) ---
+--- Unmatched DFPR (Manual Review) (70) ---
   HILL MIRIAM                         | Exp: 04/30/2028
   MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
-  ROAN AMANDA                         | Exp: 04/30/2028
-  FRANKIE BRANDA                      | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2026
   PARLEIR DAVID                       | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
   GOTHRA MANJIT                       | Exp: 04/30/2028
-  CHRISTIAN LYNNE                     | Exp: 04/30/2028
-  FAISAL MAHIRA                       | Exp: 04/30/2028
   FISHER JENERRA                      | Exp: 04/30/2028
-  BRYANT PATRICIA                     | Exp: 04/30/2028
-  JURINEK NANCY                       | Exp: 04/30/2028
-  NORTON DEBBIE                       | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   BRUCE PRESTON PRINCE                | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
-  VELEZ EDUARDO                       | Exp: 04/30/2028
-  BARRETT KISHA                       | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
-  BROWN KEYANA                        | Exp: 04/30/2028
-  RADEV ELENA                         | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
-  RICCIARDI SIOBHAN                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
-  REIS DAVID M                        | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
-  CASADO ANTHONY                      | Exp: 04/30/2028
   LUCIANI BROOKE                      | Exp: 04/30/2028
-  SMITH JAFA                          | Exp: 04/30/2028
-  KENT KYLE                           | Exp: 04/30/2028
-  PARKS DARRELL                       | Exp: 04/30/2028
-  ZIEGLER FERNANDES AMIE              | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
-  AJEIGBE NURUDEEN                    | Exp: 04/30/2028
-  ARRINGTON-JONES ANGELA              | Exp: 04/30/2028
-  DE FRANK NATALIE                    | Exp: 04/30/2028
-  SCHWOEBEL CASSIDY                   | Exp: 04/30/2028
   KIM CHOONG                          | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
@@ -956,22 +934,12 @@ Total needing renewal:        197
   LEVEQUE EMILY                       | Exp: 04/30/2028
   RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
-  DAVIS ABBY                          | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
-  KRALL ELEANOR                       | Exp: 04/30/2028
-  HERNANDEZ MARIANO                   | Exp: 04/30/2028
-  MAMELEDZIJA MAHIR                   | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
-  JOHNSON KINIELLE                    | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
-  BENSON CYNTHIA                      | Exp: 04/30/2028
-  BOYCE AMETRA                        | Exp: 04/30/2028
-  MITCHELL ASHANTI                    | Exp: 04/30/2028
-  IMBRENDA JEANNINE                   | Exp: 04/30/2028
-  COHNS RODNEY                        | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
@@ -984,9 +952,7 @@ Total needing renewal:        197
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
-  HILL DESIRAE                        | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
-  GARCIA CRYSTAL                      | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   HEMAPAT NOINJAN                     | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
