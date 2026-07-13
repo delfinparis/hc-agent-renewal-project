@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-07-12
+[HC] License Renewal Report — 2026-07-13
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -678,7 +678,7 @@ Total needing renewal:        197
   Shanton Mathis                      | expires 04/30/2028 (already renewed)
   Sharlene Kirsch                     | expires 04/30/2028 (already renewed)
   Sharon Kam                          | expires 04/30/2028 (already renewed)
-  Sharon Severin                      | expires 07/31/2026 (already renewed)
+  Sharon Severin                      | expires 07/31/2028 (already renewed)
   Shaukat Ali                         | expires 04/30/2028 (already renewed)
   Shawn Schneider                     | expires 04/30/2028 (already renewed)
   Shedrick Hines                      | expires 04/30/2028 (already renewed)
