@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-07-13
+[HC] License Renewal Report — 2026-07-14
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     780
-KEEP (needs renewal):         112
-KEEP (no match in DFPR):      85
-Total needing renewal:        197
+REMOVE (already renewed):     781
+KEEP (needs renewal):         111
+KEEP (no match in DFPR):      84
+Total needing renewal:        195
 
---- Agents Who Renewed (780) ---
+--- Agents Who Renewed (781) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -734,6 +734,7 @@ Total needing renewal:        197
   Thomas Secson                       | expires 04/30/2028 (already renewed)
   Tiffany Cassin                      | expires 04/30/2028 (already renewed)
   Tiffany Long-Peterson               | expires 04/30/2028 (already renewed)
+  Timothy Stempel                     | expires 04/30/2028 (already renewed)
   Ting Ma                             | expires 04/30/2028 (already renewed)
   Todd Grant                          | expires 04/30/2028 (already renewed)
   Todd Smith                          | expires 04/30/2028 (already renewed)
@@ -789,7 +790,7 @@ Total needing renewal:        197
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (112) ---
+--- Agents Still Needing Renewal (111) ---
   Amanda McCoy                        | expires 04/30/2026 (needs renewal)
   Amanda Piscaglia                    | expires 04/30/2026 (needs renewal)
   Andre Brooks                        | expires 04/30/2026 (needs renewal)
@@ -851,7 +852,6 @@ Total needing renewal:        197
   Kimberly Lackey                     | expires 04/30/2026 (needs renewal)
   Kita Harris                         | expires 04/30/2026 (needs renewal)
   Koray Yesilli                       | expires 04/30/2026 (needs renewal)
-  Kristin Schainker                   | expires 04/30/2026 (needs renewal)
   Kristine Brownfield                 | expires 04/30/2026 (needs renewal)
   Krystian Chalupczak                 | expires 04/30/2026 (needs renewal)
   LaToya Thomas                       | expires 04/30/2026 (needs renewal)
