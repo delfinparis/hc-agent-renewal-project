@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-07-16
+[HC] License Renewal Report — 2026-07-17
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     782
+REMOVE (already renewed):     781
 KEEP (needs renewal):         8
 KEEP (no match in DFPR):      76
 Total needing renewal:        84
 
---- Agents Who Renewed (782) ---
+--- Agents Who Renewed (781) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -204,7 +204,6 @@ Total needing renewal:        84
   Dominika Sirant                     | expires 04/30/2028 (already renewed)
   Don Lewis                           | expires 04/30/2028 (already renewed)
   Donna Muhammad                      | expires 07/31/2026 (already renewed)
-  Dorothy Lowe                        | expires 04/30/2027 (already renewed)
   Dorthea Willingham                  | expires 04/30/2028 (already renewed)
   Drazenko Jozic                      | expires 04/30/2028 (already renewed)
   Dylan Rowland                       | expires 04/30/2028 (already renewed)
@@ -849,6 +848,7 @@ Total needing renewal:        84
   SPAHR LAUREN                        | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
+  TIESI JOELLYN                       | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
@@ -862,7 +862,6 @@ Total needing renewal:        84
   MURPHY THOMAS                       | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
-  TIESI JOELLYN                       | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
