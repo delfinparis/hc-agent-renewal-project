@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-07-17
+[HC] License Renewal Report — 2026-07-18
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     781
-KEEP (needs renewal):         8
+KEEP (needs renewal):         1
 KEEP (no match in DFPR):      76
-Total needing renewal:        84
+Total needing renewal:        77
 
 --- Agents Who Renewed (781) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
@@ -790,15 +790,8 @@ Total needing renewal:        84
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (8) ---
-  Angel Johnson Rooker                | expires 04/30/2026 (needs renewal)
-  Brendan Starr                       | expires 04/30/2026 (needs renewal)
-  Joyce Battistone                    | expires 04/30/2026 (needs renewal)
-  Lois Stone                          | expires 04/30/2026 (needs renewal)
-  Marie Johnson                       | expires 04/30/2026 (needs renewal)
-  Quantae Presley                     | expires 04/30/2026 (needs renewal)
+--- Agents Still Needing Renewal (1) ---
   Robert Bollhoffer                   | expires 04/30/2006 (needs renewal)
-  Sandra Mellion                      | expires 04/30/2026 (needs renewal)
 
 --- Unmatched DFPR (Manual Review) (70) ---
   HILL MIRIAM                         | Exp: 04/30/2028
@@ -841,6 +834,7 @@ Total needing renewal:        84
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
+  SCIABICA SAM                        | Exp: 04/30/2028
   STAEHLIN NICOLE                     | Exp: 04/30/2028
   GREGORY BROOKE                      | Exp: 04/30/2028
   LIAN BO                             | Exp: 04/30/2028
@@ -858,15 +852,14 @@ Total needing renewal:        84
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
-  SCIABICA SAM                        | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
+  LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
-  LIEBLANG ROBERT                     | Exp: 04/30/2028
   STASYTIS OVIDIJUS                   | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
