@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-07-19
+[HC] License Renewal Report — 2026-07-22
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     781
+REMOVE (already renewed):     778
 KEEP (needs renewal):         1
 KEEP (no match in DFPR):      76
 Total needing renewal:        77
 
---- Agents Who Renewed (781) ---
+--- Agents Who Renewed (778) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -457,7 +457,6 @@ Total needing renewal:        77
   Laura Kaplan                        | expires 04/30/2028 (already renewed)
   Laura Lasko                         | expires 04/30/2028 (already renewed)
   Laura Speer                         | expires 04/30/2028 (already renewed)
-  Laura Walls                         | expires 04/30/2028 (already renewed)
   Lauren Burich                       | expires 04/30/2028 (already renewed)
   Lauren Fleury                       | expires 04/30/2028 (already renewed)
   Lauren Johnson                      | expires 04/30/2028 (already renewed)
@@ -543,7 +542,6 @@ Total needing renewal:        77
   Michael Stratigakis                 | expires 04/30/2028 (already renewed)
   Michael Vigna                       | expires 04/30/2027 (already renewed)
   Michel Ruiz                         | expires 04/30/2027 (already renewed)
-  Michele Daane                       | expires 07/31/2026 (already renewed)
   Michele Lassen                      | expires 04/30/2028 (already renewed)
   Michelle Boatman                    | expires 04/30/2028 (already renewed)
   Michelle Campbell                   | expires 04/30/2028 (already renewed)
@@ -641,7 +639,6 @@ Total needing renewal:        77
   Robert Furmanek                     | expires 04/30/2028 (already renewed)
   Robert Hendershot                   | expires 04/30/2028 (already renewed)
   Robert Maddox                       | expires 04/30/2028 (already renewed)
-  Robert OBrien                       | expires 04/30/2028 (already renewed)
   Robert Whitney                      | expires 04/30/2028 (already renewed)
   Roberto Ortiz                       | expires 04/30/2028 (already renewed)
   Robin Miller                        | expires 04/30/2028 (already renewed)
@@ -812,24 +809,25 @@ Total needing renewal:        77
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
+  LUCIANI BROOKE                      | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
   KIM CHOONG                          | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
-  LUCIANI BROOKE                      | Exp: 04/30/2028
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
   SWETZ HUANG SARAH                   | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
   RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
+  VATOVA PETROV RALITSA               | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
+  CLARKE LEENA                        | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
-  VATOVA PETROV RALITSA               | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
@@ -841,7 +839,6 @@ Total needing renewal:        77
   RULE ALISON                         | Exp: 04/30/2028
   SPAHR LAUREN                        | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
-  CLARKE LEENA                        | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
