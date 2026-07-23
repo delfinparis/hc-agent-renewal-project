@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-07-22
+[HC] License Renewal Report — 2026-07-23
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -698,6 +698,7 @@ Total needing renewal:        77
   Susan Alnemer                       | expires 04/30/2028 (already renewed)
   Susan Andersen                      | expires 04/30/2028 (already renewed)
   Susan Bickner                       | expires 04/30/2028 (already renewed)
+  Susan Claffy                        | expires 04/30/2028 (already renewed)
   Susan Hoagland                      | expires 04/30/2028 (already renewed)
   Susan Jones                         | expires 04/30/2028 (already renewed)
   Susan Ross                          | expires 04/30/2028 (already renewed)
@@ -741,7 +742,6 @@ Total needing renewal:        77
   Tracey Lane                         | expires 04/30/2028 (already renewed)
   Tracy Bleuher                       | expires 04/30/2028 (already renewed)
   Tracy Magyar                        | expires 04/30/2028 (already renewed)
-  Travis Koran                        | expires 04/30/2027 (already renewed)
   Tyree Glass                         | expires 04/30/2028 (already renewed)
   Uda Potgieter                       | expires 04/30/2028 (already renewed)
   Vadim Roshass                       | expires 04/30/2028 (already renewed)
