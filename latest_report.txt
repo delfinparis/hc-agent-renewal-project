@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-07-23
+[HC] License Renewal Report — 2026-07-24
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     778
+REMOVE (already renewed):     777
 KEEP (needs renewal):         1
 KEEP (no match in DFPR):      76
 Total needing renewal:        77
 
---- Agents Who Renewed (778) ---
+--- Agents Who Renewed (777) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -92,7 +92,6 @@ Total needing renewal:        77
   Austin McFarlane                    | expires 04/30/2028 (already renewed)
   Balinda Henderson                   | expires 04/30/2028 (already renewed)
   Barbara Kypr                        | expires 04/30/2028 (already renewed)
-  Bassam Warrior                      | expires 04/30/2028 (already renewed)
   Bektemir Ashirmatov                 | expires 04/30/2028 (already renewed)
   Belinda Brown                       | expires 04/30/2028 (already renewed)
   Bertha Cruz                         | expires 04/30/2028 (already renewed)
