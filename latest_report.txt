@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-07-24
+[HC] License Renewal Report — 2026-07-25
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     777
+REMOVE (already renewed):     778
 KEEP (needs renewal):         1
 KEEP (no match in DFPR):      76
 Total needing renewal:        77
 
---- Agents Who Renewed (777) ---
+--- Agents Who Renewed (778) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -491,6 +491,7 @@ Total needing renewal:        77
   Mahira Faisal                       | expires 04/30/2028 (already renewed)
   Mallory Snyderman                   | expires 04/30/2028 (already renewed)
   Marcella Doyle                      | expires 04/30/2027 (already renewed)
+  Marcin Krasnowski                   | expires 04/30/2028 (already renewed)
   Margaret Slaughter                  | expires 04/30/2027 (already renewed)
   Margaret Tessling                   | expires 04/30/2028 (already renewed)
   Maria Correa                        | expires 04/30/2028 (already renewed)
