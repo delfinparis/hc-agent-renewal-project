@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-07-26
+[HC] License Renewal Report — 2026-07-27
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -610,7 +610,7 @@ Total needing renewal:        77
   Peter Russell                       | expires 04/30/2028 (already renewed)
   Petranka Nenova                     | expires 04/30/2028 (already renewed)
   Phillip James                       | expires 04/30/2028 (already renewed)
-  Pierre Msaed                        | expires 07/31/2026 (already renewed)
+  Pierre Msaed                        | expires 07/31/2028 (already renewed)
   Priscilla Medrano                   | expires 04/30/2028 (already renewed)
   Qiana Nance                         | expires 04/30/2028 (already renewed)
   Qutbuddin Dalal                     | expires 04/30/2028 (already renewed)
@@ -657,7 +657,7 @@ Total needing renewal:        77
   Ryan Gena                           | expires 04/30/2028 (already renewed)
   Ryan Przybyl                        | expires 04/30/2028 (already renewed)
   Ryan Raymundo                       | expires 04/30/2028 (already renewed)
-  Ryan Rusan                          | expires 07/31/2026 (already renewed)
+  Ryan Rusan                          | expires 07/31/2028 (already renewed)
   Ryan Stavros                        | expires 04/30/2028 (already renewed)
   Saad Khatri                         | expires 04/30/2028 (already renewed)
   Saar Schnitman                      | expires 04/30/2028 (already renewed)
