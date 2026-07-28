@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-07-27
+[HC] License Renewal Report — 2026-07-28
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     778
 KEEP (needs renewal):         1
-KEEP (no match in DFPR):      76
-Total needing renewal:        77
+KEEP (no match in DFPR):      75
+Total needing renewal:        76
 
 --- Agents Who Renewed (778) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
@@ -790,7 +790,7 @@ Total needing renewal:        77
 --- Agents Still Needing Renewal (1) ---
   Robert Bollhoffer                   | expires 04/30/2006 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (70) ---
+--- Unmatched DFPR (Manual Review) (69) ---
   HILL MIRIAM                         | Exp: 04/30/2028
   MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
@@ -805,7 +805,6 @@ Total needing renewal:        77
   IVELJIC MARY                        | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
-  BRUCE PRESTON PRINCE                | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
