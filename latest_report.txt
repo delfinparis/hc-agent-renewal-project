@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-08-01
+[HC] License Renewal Report — 2026-08-02
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     778
+REMOVE (already renewed):     775
 KEEP (needs renewal):         1
 KEEP (no match in DFPR):      75
 Total needing renewal:        76
 
---- Agents Who Renewed (778) ---
+--- Agents Who Renewed (775) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -62,7 +62,6 @@ Total needing renewal:        76
   Andrew Wojciak                      | expires 04/30/2028 (already renewed)
   Aneta Kopera                        | expires 04/30/2028 (already renewed)
   Angela Arrington-Jones              | expires 04/30/2028 (already renewed)
-  Angela Davis                        | expires 07/31/2026 (already renewed)
   Angela Dotson                       | expires 04/30/2028 (already renewed)
   Angela Galindo                      | expires 04/30/2028 (already renewed)
   Angelica Kuca                       | expires 04/30/2028 (already renewed)
@@ -202,7 +201,6 @@ Total needing renewal:        76
   Diane Passannante                   | expires 04/30/2028 (already renewed)
   Dominika Sirant                     | expires 04/30/2028 (already renewed)
   Don Lewis                           | expires 04/30/2028 (already renewed)
-  Donna Muhammad                      | expires 07/31/2026 (already renewed)
   Dorthea Willingham                  | expires 04/30/2028 (already renewed)
   Drazenko Jozic                      | expires 04/30/2028 (already renewed)
   Dylan Rowland                       | expires 04/30/2028 (already renewed)
@@ -449,7 +447,6 @@ Total needing renewal:        76
   Lakisha Taylor                      | expires 04/30/2028 (already renewed)
   Lakisha Watson                      | expires 04/30/2027 (already renewed)
   Larecia Tucker                      | expires 04/30/2028 (already renewed)
-  Larniecia Smith                     | expires 07/31/2026 (already renewed)
   Larry Chen                          | expires 04/30/2027 (already renewed)
   Latasha Harrington                  | expires 04/30/2028 (already renewed)
   Laura Barrera                       | expires 04/30/2028 (already renewed)
@@ -827,6 +824,7 @@ Total needing renewal:        76
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
+  HEMAPAT NOINJAN                     | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
@@ -842,7 +840,6 @@ Total needing renewal:        76
   HILL DESIRAE                        | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
-  HEMAPAT NOINJAN                     | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
   THORPE JEAN                         | Exp: 04/30/2028
   SANTOS ELIZABETH                    | Exp: 04/30/2028
