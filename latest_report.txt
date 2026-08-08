@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-08-07
+[HC] License Renewal Report — 2026-08-08
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -794,7 +794,7 @@ Total needing renewal:        76
   HOGAN CODY                          | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
-  nan nan                             | Exp: 10/31/2026
+  nan nan                             | Exp: 10/31/2028
   PARLEIR DAVID                       | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
   DI BRIZZI RENDA                     | Exp: 04/30/2028
