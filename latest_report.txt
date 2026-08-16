@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-08-13
+[HC] License Renewal Report — 2026-08-16
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     775
+REMOVE (already renewed):     776
 KEEP (needs renewal):         1
-KEEP (no match in DFPR):      75
-Total needing renewal:        76
+KEEP (no match in DFPR):      76
+Total needing renewal:        77
 
---- Agents Who Renewed (775) ---
+--- Agents Who Renewed (776) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -244,7 +244,6 @@ Total needing renewal:        76
   Francisco Ortiz                     | expires 04/30/2028 (already renewed)
   Frank Lockenour                     | expires 04/30/2028 (already renewed)
   Fred Lin                            | expires 04/30/2028 (already renewed)
-  Gabriel Franken                     | expires 04/30/2028 (already renewed)
   Gabriel Malavolti                   | expires 04/30/2028 (already renewed)
   Gabrielle Vinson                    | expires 04/30/2028 (already renewed)
   Garland Robinson                    | expires 04/30/2028 (already renewed)
@@ -591,6 +590,7 @@ Total needing renewal:        76
   Pamela Hurt                         | expires 04/30/2028 (already renewed)
   Pamela Podkulski                    | expires 04/30/2028 (already renewed)
   Parag Shah                          | expires 04/30/2028 (already renewed)
+  Parielle Davis                      | expires 04/30/2028 (already renewed)
   Parimal Mehta                       | expires 04/30/2028 (already renewed)
   Parth Bhansali                      | expires 04/30/2028 (already renewed)
   Patricia Bryant                     | expires 04/30/2028 (already renewed)
@@ -707,6 +707,7 @@ Total needing renewal:        76
   Sylvia Dordevic                     | expires 04/30/2028 (already renewed)
   Sylvia Duncan                       | expires 04/30/2028 (already renewed)
   Sylvia Fennell                      | expires 04/30/2028 (already renewed)
+  Tamara Bright                       | expires 04/30/2028 (already renewed)
   Tamari Fair                         | expires 04/30/2028 (already renewed)
   Tammy Busch                         | expires 04/30/2028 (already renewed)
   Tamula Thomas                       | expires 04/30/2028 (already renewed)
@@ -787,7 +788,7 @@ Total needing renewal:        76
 --- Agents Still Needing Renewal (1) ---
   Robert Bollhoffer                   | expires 04/30/2006 (needs renewal)
 
---- Unmatched DFPR (Manual Review) (69) ---
+--- Unmatched DFPR (Manual Review) (70) ---
   HILL MIRIAM                         | Exp: 04/30/2028
   MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
@@ -802,6 +803,7 @@ Total needing renewal:        76
   IVELJIC MARY                        | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
+  VOS EAMON                           | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
@@ -824,7 +826,6 @@ Total needing renewal:        76
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
-  HEMAPAT NOINJAN                     | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
@@ -840,6 +841,7 @@ Total needing renewal:        76
   HILL DESIRAE                        | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
+  HEMAPAT NOINJAN                     | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
   THORPE JEAN                         | Exp: 04/30/2028
   SANTOS ELIZABETH                    | Exp: 04/30/2028
