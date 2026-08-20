@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-08-18
+[HC] License Renewal Report — 2026-08-20
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     776
+REMOVE (already renewed):     778
 KEEP (needs renewal):         1
 KEEP (no match in DFPR):      76
 Total needing renewal:        77
 
---- Agents Who Renewed (776) ---
+--- Agents Who Renewed (778) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -261,6 +261,7 @@ Total needing renewal:        77
   Gregg Horan                         | expires 04/30/2028 (already renewed)
   Gregory Elkins                      | expires 04/30/2028 (already renewed)
   Grethel Juarez                      | expires 04/30/2028 (already renewed)
+  Griselda Ortega                     | expires 04/30/2028 (already renewed)
   Hadrian Hobbs                       | expires 04/30/2028 (already renewed)
   Hala Souman                         | expires 04/30/2028 (already renewed)
   Halea Isberg                        | expires 04/30/2028 (already renewed)
@@ -616,6 +617,7 @@ Total needing renewal:        77
   Rami Peltz                          | expires 04/30/2028 (already renewed)
   Rami Yasin                          | expires 04/30/2028 (already renewed)
   Ramon Temblador                     | expires 04/30/2028 (already renewed)
+  Rani Bajaj                          | expires 04/30/2028 (already renewed)
   Rasah Daily                         | expires 04/30/2028 (already renewed)
   Rashaun Johnson                     | expires 04/30/2028 (already renewed)
   Rebecca Vucko                       | expires 04/30/2028 (already renewed)
@@ -807,11 +809,11 @@ Total needing renewal:        77
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
-  LUCIANI BROOKE                      | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
   KIM CHOONG                          | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
+  LUCIANI BROOKE                      | Exp: 04/30/2028
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
   SWETZ HUANG SARAH                   | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
@@ -824,7 +826,6 @@ Total needing renewal:        77
   BEATY JENESSA                       | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
-  CLARKE LEENA                        | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
@@ -837,6 +838,7 @@ Total needing renewal:        77
   RULE ALISON                         | Exp: 04/30/2028
   SPAHR LAUREN                        | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
+  CLARKE LEENA                        | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
