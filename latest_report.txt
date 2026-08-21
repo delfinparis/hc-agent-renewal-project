@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-08-20
+[HC] License Renewal Report — 2026-08-21
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     778
+REMOVE (already renewed):     779
 KEEP (needs renewal):         1
 KEEP (no match in DFPR):      76
 Total needing renewal:        77
 
---- Agents Who Renewed (778) ---
+--- Agents Who Renewed (779) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -663,6 +663,7 @@ Total needing renewal:        77
   Sam Bernstein                       | expires 04/30/2028 (already renewed)
   Samantha Perez                      | expires 04/30/2028 (already renewed)
   Samuel Shearer                      | expires 04/30/2027 (already renewed)
+  Sandra Avila                        | expires 04/30/2028 (already renewed)
   Sandra Zavala                       | expires 04/30/2028 (already renewed)
   Sanhita Agnihotri                   | expires 04/30/2028 (already renewed)
   Sara M. King                        | expires 04/30/2028 (already renewed)
@@ -819,7 +820,6 @@ Total needing renewal:        77
   LEVEQUE EMILY                       | Exp: 04/30/2028
   RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
-  VATOVA PETROV RALITSA               | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
@@ -827,6 +827,7 @@ Total needing renewal:        77
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
+  VATOVA PETROV RALITSA               | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
