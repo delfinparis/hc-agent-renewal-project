@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-08-25
+[HC] License Renewal Report — 2026-08-26
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     780
+REMOVE (already renewed):     782
 KEEP (needs renewal):         1
 KEEP (no match in DFPR):      76
 Total needing renewal:        77
 
---- Agents Who Renewed (780) ---
+--- Agents Who Renewed (782) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -26,6 +26,7 @@ Total needing renewal:        77
   Alexander Luis Rodriguez-Cortes     | expires 04/30/2028 (already renewed)
   Alexander Robles                    | expires 04/30/2028 (already renewed)
   Alfonso Urquidi                     | expires 04/30/2028 (already renewed)
+  Alfredo Medina                      | expires 04/30/2028 (already renewed)
   Alice Berger                        | expires 04/30/2028 (already renewed)
   Alisa Magsino                       | expires 04/30/2028 (already renewed)
   Allen Samuel                        | expires 04/30/2027 (already renewed)
@@ -329,6 +330,7 @@ Total needing renewal:        77
   Jennifer McGregor                   | expires 04/30/2028 (already renewed)
   Jennifer Nardone                    | expires 04/30/2028 (already renewed)
   Jenny McFadden                      | expires 04/30/2028 (already renewed)
+  Jenny Paylian                       | expires 04/30/2028 (already renewed)
   Jeremy Raman                        | expires 04/30/2028 (already renewed)
   Jesica Berger                       | expires 04/30/2028 (already renewed)
   Jesse Coester                       | expires 04/30/2028 (already renewed)
@@ -841,7 +843,6 @@ Total needing renewal:        77
   DAVIS ABBY                          | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
-  DALAL STEVE                         | Exp: 04/30/2027
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
   RICH DENISE                         | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
@@ -852,6 +853,7 @@ Total needing renewal:        77
   NITSCH MONICA                       | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
+  DALAL STEVE                         | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
