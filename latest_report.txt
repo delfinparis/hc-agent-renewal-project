@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-08-26
+[HC] License Renewal Report — 2026-08-28
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     782
-KEEP (needs renewal):         1
+REMOVE (already renewed):     783
+KEEP (needs renewal):         0
 KEEP (no match in DFPR):      76
-Total needing renewal:        77
+Total needing renewal:        76
 
---- Agents Who Renewed (782) ---
+--- Agents Who Renewed (783) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -106,6 +106,7 @@ Total needing renewal:        77
   Brandon Freeman                     | expires 04/30/2028 (already renewed)
   Brenda Mchugh                       | expires 04/30/2028 (already renewed)
   Brian Lang                          | expires 04/30/2028 (already renewed)
+  Brian Morrison                      | expires 04/30/2028 (already renewed)
   Brian Okraski                       | expires 04/30/2028 (already renewed)
   Brian Persfull                      | expires 04/30/2028 (already renewed)
   Brian Weppner                       | expires 04/30/2028 (already renewed)
@@ -383,7 +384,6 @@ Total needing renewal:        77
   Joshua Moeller                      | expires 04/30/2028 (already renewed)
   Judith Ruiz-Branch                  | expires 04/30/2028 (already renewed)
   Julie Johnson                       | expires 04/30/2028 (already renewed)
-  Julie Quinn                         | expires 04/30/2028 (already renewed)
   Julie Shearer                       | expires 04/30/2027 (already renewed)
   Justin Carpenter                    | expires 04/30/2028 (already renewed)
   Justin Kreis                        | expires 04/30/2028 (already renewed)
@@ -419,7 +419,6 @@ Total needing renewal:        77
   Ken Koomalsingh                     | expires 04/30/2028 (already renewed)
   Kenneth Lauer                       | expires 04/30/2028 (already renewed)
   Kenyetta Hunter                     | expires 04/30/2028 (already renewed)
-  Kevin Glovack                       | expires 04/30/2028 (already renewed)
   Kevin Johnson                       | expires 04/30/2028 (already renewed)
   Kevin Mulkern                       | expires 04/30/2028 (already renewed)
   Kevin Rothman                       | expires 04/30/2028 (already renewed)
@@ -637,6 +636,7 @@ Total needing renewal:        77
   Richard Westerheide                 | expires 04/30/2028 (already renewed)
   Rigoberto Rodriguez                 | expires 04/30/2028 (already renewed)
   Rimas Stankus                       | expires 04/30/2028 (already renewed)
+  Robert Bollhoffer                   | expires 04/30/2028 (already renewed)
   Robert Boryk                        | expires 04/30/2028 (already renewed)
   Robert Furmanek                     | expires 04/30/2028 (already renewed)
   Robert Hendershot                   | expires 04/30/2028 (already renewed)
@@ -674,6 +674,7 @@ Total needing renewal:        77
   Sarah Jovanovic                     | expires 04/30/2028 (already renewed)
   Sargon Chabo                        | expires 04/30/2028 (already renewed)
   Scott Dudzinski                     | expires 04/30/2028 (already renewed)
+  Scott Turner                        | expires 04/30/2028 (already renewed)
   Sean Kim                            | expires 04/30/2028 (already renewed)
   Shanton Mathis                      | expires 04/30/2028 (already renewed)
   Sharlene Kirsch                     | expires 04/30/2028 (already renewed)
@@ -791,49 +792,28 @@ Total needing renewal:        77
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Agents Still Needing Renewal (1) ---
-  Robert Bollhoffer                   | expires 04/30/2006 (needs renewal)
-
---- Unmatched DFPR (Manual Review) (99) ---
-  STRONG JOHN                         | Exp: 04/30/2027
+--- Unmatched DFPR (Manual Review) (70) ---
   HILL MIRIAM                         | Exp: 04/30/2028
-  AGNIHOTRI SANHITA                   | Exp: 04/30/2028
-  BERGSTROM HEATHER                   | Exp: 04/30/2028
   MORENO AGNES                        | Exp: 04/30/2028
-  KRUPA MARTA                         | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
-  JARVIS DANA                         | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2028
-  CHEN LARRY                          | Exp: 04/30/2027
   PARLEIR DAVID                       | Exp: 04/30/2027
-  PARLEIR DAVID                       | Exp: 04/30/2027
-  BONACHEA ROLANDO                    | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
   DI BRIZZI RENDA                     | Exp: 04/30/2028
   FISHER JENERRA                      | Exp: 04/30/2028
-  PERSFULL BRIAN                      | Exp: 04/30/2028
-  O'BRIEN MICHAEL                     | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
-  SEIWERT BRANDI                      | Exp: 04/30/2028
-  ALI SHAUKAT                         | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
-  HODGES ERICA                        | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
-  SONG CHRISTIAN                      | Exp: 04/30/2028
-  WEGMAN JESSICA                      | Exp: 04/30/2028
   VOS EAMON                           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
-  VIGNA MICHAEL                       | Exp: 04/30/2027
-  SEVERIN SHARON                      | Exp: 07/31/2028
   KIM CHOONG                          | Exp: 04/30/2028
-  BROWN NICOLE                        | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
   LUCIANI BROOKE                      | Exp: 04/30/2028
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
@@ -844,23 +824,18 @@ Total needing renewal:        77
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
-  RICH DENISE                         | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
-  THOMAS LINDSEY                      | Exp: 04/30/2028
-  ANDRIUS ZIVILE                      | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
-  DALAL STEVE                         | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
   SCIABICA SAM                        | Exp: 04/30/2028
   STAEHLIN NICOLE                     | Exp: 04/30/2028
   GREGORY BROOKE                      | Exp: 04/30/2028
-  RUIZ ALEJANDRO                      | Exp: 04/30/2028
   LIAN BO                             | Exp: 04/30/2028
   RULE ALISON                         | Exp: 04/30/2028
   SPAHR LAUREN                        | Exp: 04/30/2028
@@ -872,24 +847,18 @@ Total needing renewal:        77
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   HEMAPAT NOINJAN                     | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
-  SAMUEL ALLEN                        | Exp: 04/30/2027
-  POANI MARY                          | Exp: 04/30/2027
   THORPE JEAN                         | Exp: 04/30/2028
   SANTOS ELIZABETH                    | Exp: 04/30/2028
-  MILLER TARNIECE                     | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
-  FAKHOURY MAYSOON                    | Exp: 04/30/2027
-  THOMA EVAN                          | Exp: 04/30/2027
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
-  WILLINGHAM DORTHEA                  | Exp: 04/30/2028
   STASYTIS OVIDIJUS                   | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
