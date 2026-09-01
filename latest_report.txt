@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-08-31
+[HC] License Renewal Report — 2026-09-01
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -323,6 +323,7 @@ Total needing renewal:        76
   Jeffery Stanton                     | expires 04/30/2028 (already renewed)
   Jeffrey Belden                      | expires 04/30/2028 (already renewed)
   Jeffrey Dachman                     | expires 04/30/2028 (already renewed)
+  Jeffrey Melinder                    | expires 04/30/2027 (already renewed)
   Jeffrey Rice                        | expires 04/30/2028 (already renewed)
   Jenerra Fisher                      | expires 04/30/2028 (already renewed)
   Jennifer Jones Moreland             | expires 04/30/2028 (already renewed)
@@ -677,7 +678,6 @@ Total needing renewal:        76
   Scott Turner                        | expires 04/30/2028 (already renewed)
   Sean Kim                            | expires 04/30/2028 (already renewed)
   Shanton Mathis                      | expires 04/30/2028 (already renewed)
-  Sharlene Kirsch                     | expires 04/30/2028 (already renewed)
   Sharon Kam                          | expires 04/30/2028 (already renewed)
   Sharon Severin                      | expires 07/31/2028 (already renewed)
   Shaukat Ali                         | expires 04/30/2028 (already renewed)
