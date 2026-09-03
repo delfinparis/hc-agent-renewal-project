@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-09-02
+[HC] License Renewal Report — 2026-09-03
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     783
+REMOVE (already renewed):     781
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      76
 Total needing renewal:        76
 
---- Agents Who Renewed (783) ---
+--- Agents Who Renewed (781) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -451,7 +451,6 @@ Total needing renewal:        76
   Larecia Tucker                      | expires 04/30/2028 (already renewed)
   Larry Chen                          | expires 04/30/2027 (already renewed)
   Latasha Harrington                  | expires 04/30/2028 (already renewed)
-  Laura Barrera                       | expires 04/30/2028 (already renewed)
   Laura Kaplan                        | expires 04/30/2028 (already renewed)
   Laura Lasko                         | expires 04/30/2028 (already renewed)
   Laura Speer                         | expires 04/30/2028 (already renewed)
@@ -626,7 +625,6 @@ Total needing renewal:        76
   Rebecca Vucko                       | expires 04/30/2028 (already renewed)
   Reema Raza                          | expires 04/30/2028 (already renewed)
   Regina Lynch                        | expires 04/30/2028 (already renewed)
-  Reginald Buchanan                   | expires 04/30/2028 (already renewed)
   Renata Bernatonis                   | expires 04/30/2028 (already renewed)
   Renee Matthews-Cravens              | expires 04/30/2028 (already renewed)
   Reynaldo Ymson                      | expires 04/30/2028 (already renewed)
