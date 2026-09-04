@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-09-03
+[HC] License Renewal Report — 2026-09-04
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     781
+REMOVE (already renewed):     778
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      76
 Total needing renewal:        76
 
---- Agents Who Renewed (781) ---
+--- Agents Who Renewed (778) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -306,7 +306,6 @@ Total needing renewal:        76
   Jamie Budwell                       | expires 04/30/2028 (already renewed)
   Jamie Higer                         | expires 04/30/2028 (already renewed)
   Janeen Pettett                      | expires 04/30/2028 (already renewed)
-  Janet Linde                         | expires 04/30/2028 (already renewed)
   Janet Ocampo                        | expires 04/30/2028 (already renewed)
   Jann Tyler                          | expires 04/30/2028 (already renewed)
   Jansey Hilliard                     | expires 04/30/2028 (already renewed)
@@ -375,7 +374,6 @@ Total needing renewal:        76
   Jonathan Rusnak                     | expires 04/30/2028 (already renewed)
   Jonathan Schroeder                  | expires 04/30/2028 (already renewed)
   Jorge Flores                        | expires 04/30/2028 (already renewed)
-  Jose Figueroa                       | expires 04/30/2028 (already renewed)
   Joselyn Almburg                     | expires 04/30/2028 (already renewed)
   Joseph Henley                       | expires 04/30/2028 (already renewed)
   Joseph Nakagawa                     | expires 04/30/2028 (already renewed)
@@ -693,7 +691,6 @@ Total needing renewal:        76
   Stacie Arnold                       | expires 04/30/2028 (already renewed)
   Stephanie Pardy                     | expires 04/30/2028 (already renewed)
   Steve Dalal                         | expires 04/30/2027 (already renewed)
-  Steven Finkelstein                  | expires 04/30/2028 (already renewed)
   Steven Wright Jr.                   | expires 04/30/2027 (already renewed)
   Sue Altensey                        | expires 04/30/2028 (already renewed)
   Sung Yoo                            | expires 04/30/2028 (already renewed)
