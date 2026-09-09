@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-09-08
+[HC] License Renewal Report — 2026-09-09
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     778
+REMOVE (already renewed):     777
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      76
 Total needing renewal:        76
 
---- Agents Who Renewed (778) ---
+--- Agents Who Renewed (777) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -448,7 +448,6 @@ Total needing renewal:        76
   Lakisha Watson                      | expires 04/30/2027 (already renewed)
   Larecia Tucker                      | expires 04/30/2028 (already renewed)
   Larry Chen                          | expires 04/30/2027 (already renewed)
-  Latasha Harrington                  | expires 04/30/2028 (already renewed)
   Laura Kaplan                        | expires 04/30/2028 (already renewed)
   Laura Lasko                         | expires 04/30/2028 (already renewed)
   Laura Speer                         | expires 04/30/2028 (already renewed)
@@ -787,46 +786,25 @@ Total needing renewal:        76
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Unmatched DFPR (Manual Review) (112) ---
-  NELSON AMANDA                       | Exp: 04/30/2028
-  BAJAJ RANI                          | Exp: 04/30/2028
+--- Unmatched DFPR (Manual Review) (70) ---
   HILL MIRIAM                         | Exp: 04/30/2028
-  RHEBERGEN MARYBETH                  | Exp: 04/30/2028
-  EZEOKAFOR IKE                       | Exp: 04/30/2028
-  LIAUKEVICIUS KAROLINA               | Exp: 04/30/2028
   MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
-  ISBERG HALEA                        | Exp: 04/30/2028
-  CHANTHARANGSY JAIMEE                | Exp: 04/30/2028
-  RAZVI SYED                          | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2028
   PARLEIR DAVID                       | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
   DI BRIZZI RENDA                     | Exp: 04/30/2028
-  KIM SEAN                            | Exp: 04/30/2028
-  RUSNAK JONATHAN                     | Exp: 04/30/2028
-  BERGER JESICA                       | Exp: 04/30/2028
   FISHER JENERRA                      | Exp: 04/30/2028
-  WICK RUSSELL                        | Exp: 04/30/2028
-  LONG PETERSON TIFFANY               | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
-  WITTCHEN SARA                       | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
-  TUCKER RICHARD                      | Exp: 04/30/2028
-  MUJICA RODOLFO                      | Exp: 04/30/2028
-  BLEUHER TRACY                       | Exp: 04/30/2028
-  LASLIE EUGENIA                      | Exp: 04/30/2028
   VOS EAMON                           | Exp: 04/30/2028
-  YASIN RAMI                          | Exp: 04/30/2028
-  STANTON JEFFERY                     | Exp: 04/30/2028
-  VANSTORY LISA                       | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
   KIM CHOONG                          | Exp: 04/30/2028
@@ -837,19 +815,11 @@ Total needing renewal:        76
   LEVEQUE EMILY                       | Exp: 04/30/2028
   RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
-  BARNETT CHERYL                      | Exp: 04/30/2028
-  DAILY RASAH                         | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
-  BROWN BELINDA                       | Exp: 04/30/2028
-  MAGYAR TRACY                        | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
-  NITAHARA CHERYL L                   | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
-  JOYCE BRIGITTE                      | Exp: 04/30/2028
-  MEDRANO PRISCILLA                   | Exp: 04/30/2028
-  BRIXEY MICHAEL                      | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
@@ -857,19 +827,11 @@ Total needing renewal:        76
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
-  APPEL-BASS SUSAN                    | Exp: 04/30/2028
   SCIABICA SAM                        | Exp: 04/30/2028
   STAEHLIN NICOLE                     | Exp: 04/30/2028
   GREGORY BROOKE                      | Exp: 04/30/2028
-  GREGORY BROOKE                      | Exp: 04/30/2028
-  SPEARS KATRINA                      | Exp: 04/30/2028
-  CLARK JESSICA                       | Exp: 04/30/2028
   LIAN BO                             | Exp: 04/30/2028
   RULE ALISON                         | Exp: 04/30/2028
-  RULE ALISON                         | Exp: 04/30/2028
-  LOZANO GERARDO                      | Exp: 04/30/2028
-  HALL LINDSAY                        | Exp: 04/30/2028
-  BERNSTEIN SAMUEL                    | Exp: 04/30/2028
   SPAHR LAUREN                        | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
@@ -878,24 +840,19 @@ Total needing renewal:        76
   CULLEN AMANDA                       | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   HEMAPAT NOINJAN                     | Exp: 04/30/2028
-  THOMAS TAMULA                       | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
   THORPE JEAN                         | Exp: 04/30/2028
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
-  CAVENEY KATHLEEN                    | Exp: 04/30/2028
-  BROWN RODIA                         | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
-  MIREA COSTINEL                      | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
-  COLLIER CAMISHA                     | Exp: 04/30/2028
   STASYTIS OVIDIJUS                   | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
