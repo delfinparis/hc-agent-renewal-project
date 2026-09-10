@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-09-09
+[HC] License Renewal Report — 2026-09-10
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     777
+REMOVE (already renewed):     778
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      76
 Total needing renewal:        76
 
---- Agents Who Renewed (777) ---
+--- Agents Who Renewed (778) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -761,6 +761,7 @@ Total needing renewal:        76
   Violeta Arias                       | expires 04/30/2028 (already renewed)
   Vitaliy Puzan                       | expires 04/30/2028 (already renewed)
   Vito Capriati                       | expires 04/30/2028 (already renewed)
+  Vivian Little                       | expires 04/30/2028 (already renewed)
   Vladica Milosavljevic               | expires 04/30/2028 (already renewed)
   Walter Smith                        | expires 04/30/2028 (already renewed)
   Wei Guo                             | expires 04/30/2028 (already renewed)
