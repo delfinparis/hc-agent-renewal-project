@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-09-14
+[HC] License Renewal Report — 2026-09-15
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     778
+REMOVE (already renewed):     782
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      77
 Total needing renewal:        77
 
---- Agents Who Renewed (778) ---
+--- Agents Who Renewed (782) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -78,6 +78,7 @@ Total needing renewal:        77
   Antoinette Dabney                   | expires 04/30/2027 (already renewed)
   Ariel Laureano                      | expires 04/30/2028 (already renewed)
   Arlene Williams                     | expires 04/30/2028 (already renewed)
+  Arthur Porto                        | expires 04/30/2028 (already renewed)
   Artur Borzym                        | expires 04/30/2028 (already renewed)
   Ashanti Cromwell                    | expires 04/30/2028 (already renewed)
   Ashanti Mitchell                    | expires 04/30/2028 (already renewed)
@@ -195,6 +196,7 @@ Total needing renewal:        77
   Denise Akason                       | expires 04/30/2027 (already renewed)
   Denise Rich                         | expires 04/30/2028 (already renewed)
   Dennis Huang                        | expires 04/30/2028 (already renewed)
+  Dennis Humphries                    | expires 04/30/2028 (already renewed)
   Desiree Castro Cheatham             | expires 04/30/2028 (already renewed)
   Dev Rijal                           | expires 04/30/2028 (already renewed)
   Dewayne Reid                        | expires 04/30/2028 (already renewed)
@@ -414,6 +416,7 @@ Total needing renewal:        77
   Keith Jefferson                     | expires 04/30/2028 (already renewed)
   Keith Klebacha                      | expires 04/30/2028 (already renewed)
   Kellie Oliverii                     | expires 04/30/2028 (already renewed)
+  Kelly Walkner                       | expires 04/30/2028 (already renewed)
   Kelly Wilson                        | expires 04/30/2028 (already renewed)
   Ken Koomalsingh                     | expires 04/30/2028 (already renewed)
   Kenneth Lauer                       | expires 04/30/2028 (already renewed)
@@ -743,6 +746,7 @@ Total needing renewal:        77
   Tracy Magyar                        | expires 04/30/2028 (already renewed)
   Tyree Glass                         | expires 04/30/2028 (already renewed)
   Uda Potgieter                       | expires 04/30/2028 (already renewed)
+  Uzma Shah                           | expires 04/30/2028 (already renewed)
   Vadim Roshass                       | expires 04/30/2028 (already renewed)
   Valarie Special                     | expires 04/30/2028 (already renewed)
   Vallory Lisdero                     | expires 04/30/2028 (already renewed)
@@ -792,14 +796,14 @@ Total needing renewal:        77
   MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
-  GOTHRA MANJIT                       | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2028
   PARLEIR DAVID                       | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
-  DI BRIZZI RENDA                     | Exp: 04/30/2028
+  GOTHRA MANJIT                       | Exp: 04/30/2028
   FISHER JENERRA                      | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
+  DI BRIZZI RENDA                     | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
