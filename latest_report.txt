@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-09-15
+[HC] License Renewal Report — 2026-09-16
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -49,6 +49,7 @@ Total needing renewal:        77
   Amy Russian-Crist                   | expires 04/30/2028 (already renewed)
   Ana Lopez                           | expires 04/30/2028 (already renewed)
   Ana Mois-Gilla                      | expires 04/30/2028 (already renewed)
+  Andre Hill                          | expires 04/30/2028 (already renewed)
   Andre Martin                        | expires 04/30/2028 (already renewed)
   Andrea Brookins                     | expires 04/30/2028 (already renewed)
   Andrea Buttita                      | expires 04/30/2027 (already renewed)
@@ -253,7 +254,6 @@ Total needing renewal:        77
   Garland Robinson                    | expires 04/30/2028 (already renewed)
   Geogy George                        | expires 04/30/2028 (already renewed)
   George Fourkas                      | expires 04/30/2028 (already renewed)
-  Gerardo Lozano                      | expires 04/30/2028 (already renewed)
   Gina Sciore                         | expires 04/30/2028 (already renewed)
   Giovanna Smith                      | expires 04/30/2028 (already renewed)
   Glendale Dozier                     | expires 04/30/2028 (already renewed)
@@ -804,11 +804,11 @@ Total needing renewal:        77
   FISHER JENERRA                      | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
-  VALVERDE ANA                        | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
+  VALVERDE ANA                        | Exp: 04/30/2028
   VOS EAMON                           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
