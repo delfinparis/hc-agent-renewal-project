@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-09-17
+[HC] License Renewal Report — 2026-09-18
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     782
+REMOVE (already renewed):     781
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      77
 Total needing renewal:        77
 
---- Agents Who Renewed (782) ---
+--- Agents Who Renewed (781) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -557,7 +557,6 @@ Total needing renewal:        77
   Momchil Dimitrov                    | expires 04/30/2028 (already renewed)
   Mona Kattan                         | expires 04/30/2028 (already renewed)
   Monica Wong                         | expires 04/30/2028 (already renewed)
-  Monika Bendel                       | expires 04/30/2028 (already renewed)
   Monika Sak                          | expires 04/30/2028 (already renewed)
   Monique Day                         | expires 04/30/2028 (already renewed)
   Mudassir Khan                       | expires 04/30/2028 (already renewed)
@@ -804,11 +803,11 @@ Total needing renewal:        77
   FISHER JENERRA                      | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
+  VALVERDE ANA                        | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
-  VALVERDE ANA                        | Exp: 04/30/2028
   VOS EAMON                           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
