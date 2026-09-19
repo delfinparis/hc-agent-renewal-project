@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-09-18
+[HC] License Renewal Report — 2026-09-19
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     781
+REMOVE (already renewed):     784
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      77
-Total needing renewal:        77
+KEEP (no match in DFPR):      75
+Total needing renewal:        75
 
---- Agents Who Renewed (781) ---
+--- Agents Who Renewed (784) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -359,6 +359,7 @@ Total needing renewal:        77
   John Arvetis                        | expires 04/30/2028 (already renewed)
   John Bucaro                         | expires 04/30/2028 (already renewed)
   John Coyne                          | expires 04/30/2028 (already renewed)
+  John Doyle                          | expires 04/30/2028 (already renewed)
   John Durrwachter                    | expires 04/30/2028 (already renewed)
   John Franzen                        | expires 04/30/2028 (already renewed)
   John Jiang                          | expires 04/30/2028 (already renewed)
@@ -527,6 +528,7 @@ Total needing renewal:        77
   Melinda McCord                      | expires 04/30/2028 (already renewed)
   Melissa Clark                       | expires 04/30/2028 (already renewed)
   Meredith Johnson                    | expires 04/30/2028 (already renewed)
+  Mersudin Demirovic                  | expires 04/30/2028 (already renewed)
   Michael Axelrood                    | expires 04/30/2027 (already renewed)
   Michael Bilton                      | expires 04/30/2028 (already renewed)
   Michael Brixey                      | expires 04/30/2028 (already renewed)
@@ -691,6 +693,7 @@ Total needing renewal:        77
   Staci Seed                          | expires 04/30/2028 (already renewed)
   Stacie Arnold                       | expires 04/30/2028 (already renewed)
   Stephanie Pardy                     | expires 04/30/2028 (already renewed)
+  Steve Benos                         | expires 04/30/2028 (already renewed)
   Steve Dalal                         | expires 04/30/2027 (already renewed)
   Steven Wright Jr.                   | expires 04/30/2027 (already renewed)
   Sue Altensey                        | expires 04/30/2028 (already renewed)
@@ -792,22 +795,22 @@ Total needing renewal:        77
 
 --- Unmatched DFPR (Manual Review) (70) ---
   HILL MIRIAM                         | Exp: 04/30/2028
-  MORENO AGNES                        | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2028
   PARLEIR DAVID                       | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
+  MORENO AGNES                        | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
   FISHER JENERRA                      | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
-  VALVERDE ANA                        | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
+  VALVERDE ANA                        | Exp: 04/30/2028
   VOS EAMON                           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
@@ -817,7 +820,6 @@ Total needing renewal:        77
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
   SWETZ HUANG SARAH                   | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
-  RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
@@ -826,6 +828,7 @@ Total needing renewal:        77
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
+  RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
