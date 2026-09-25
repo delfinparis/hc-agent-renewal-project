@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-09-24
+[HC] License Renewal Report — 2026-09-25
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -307,6 +307,7 @@ Total needing renewal:        78
   Jamie Budwell                       | expires 04/30/2028 (already renewed)
   Jamie Higer                         | expires 04/30/2028 (already renewed)
   Janeen Pettett                      | expires 04/30/2028 (already renewed)
+  Janet Casalina                      | expires 04/30/2028 (already renewed)
   Janet Ocampo                        | expires 04/30/2028 (already renewed)
   Jann Tyler                          | expires 04/30/2028 (already renewed)
   Jansey Hilliard                     | expires 04/30/2028 (already renewed)
@@ -748,7 +749,6 @@ Total needing renewal:        78
   Tracy Magyar                        | expires 04/30/2028 (already renewed)
   Tyree Glass                         | expires 04/30/2028 (already renewed)
   Uda Potgieter                       | expires 04/30/2028 (already renewed)
-  Uzma Shah                           | expires 04/30/2028 (already renewed)
   Vadim Roshass                       | expires 04/30/2028 (already renewed)
   Valarie Special                     | expires 04/30/2028 (already renewed)
   Vallory Lisdero                     | expires 04/30/2028 (already renewed)
