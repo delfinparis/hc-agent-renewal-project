@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-09-25
+[HC] License Renewal Report — 2026-09-26
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     784
+REMOVE (already renewed):     783
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      78
 Total needing renewal:        78
 
---- Agents Who Renewed (784) ---
+--- Agents Who Renewed (783) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -129,7 +129,6 @@ Total needing renewal:        78
   Camisha Collier                     | expires 04/30/2028 (already renewed)
   Carl Bledsoe                        | expires 04/30/2028 (already renewed)
   Carol Knudson                       | expires 04/30/2028 (already renewed)
-  Carol Medina                        | expires 04/30/2028 (already renewed)
   Carolyn Jones                       | expires 04/30/2028 (already renewed)
   Cassidy Schwoebel                   | expires 04/30/2028 (already renewed)
   Catherine Cameron                   | expires 04/30/2028 (already renewed)
