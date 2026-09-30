@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-09-29
+[HC] License Renewal Report — 2026-09-30
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     783
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      77
-Total needing renewal:        77
+KEEP (no match in DFPR):      74
+Total needing renewal:        74
 
 --- Agents Who Renewed (783) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
@@ -66,7 +66,6 @@ Total needing renewal:        77
   Angela Galindo                      | expires 04/30/2028 (already renewed)
   Angelica Kuca                       | expires 04/30/2028 (already renewed)
   Angelika Monahan                    | expires 04/30/2028 (already renewed)
-  Angelo Tagler                       | expires 04/30/2028 (already renewed)
   Anna Bartoszek                      | expires 04/30/2028 (already renewed)
   Anna Holubovska                     | expires 04/30/2028 (already renewed)
   Anna Magana                         | expires 04/30/2028 (already renewed)
@@ -373,6 +372,7 @@ Total needing renewal:        77
   John T Reilly                       | expires 04/30/2028 (already renewed)
   John Willis                         | expires 04/30/2028 (already renewed)
   Jon Zieff                           | expires 04/30/2028 (already renewed)
+  Jonathan Hamilton                   | expires 04/30/2028 (already renewed)
   Jonathan Rusnak                     | expires 04/30/2028 (already renewed)
   Jonathan Schroeder                  | expires 04/30/2028 (already renewed)
   Jorge Flores                        | expires 04/30/2028 (already renewed)
@@ -585,11 +585,11 @@ Total needing renewal:        77
   Noelle Tenzillo                     | expires 04/30/2028 (already renewed)
   Norbert Lukacs                      | expires 04/30/2028 (already renewed)
   Noshaba Mohsin                      | expires 04/30/2028 (already renewed)
-  OVIDIJUS STASYTIS                   | expires 04/30/2028 (already renewed)
   Ola Aldibbiat                       | expires 04/30/2028 (already renewed)
   Olga Kowalski                       | expires 04/30/2028 (already renewed)
   Olga Otkina                         | expires 04/30/2028 (already renewed)
   Ori Vardi                           | expires 04/30/2028 (already renewed)
+  Ovidijus Stasytis                   | expires 04/30/2028 (already renewed)
   Pamela Cameron                      | expires 04/30/2028 (already renewed)
   Pamela Hurt                         | expires 04/30/2028 (already renewed)
   Pamela Podkulski                    | expires 04/30/2028 (already renewed)
@@ -792,7 +792,7 @@ Total needing renewal:        77
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Unmatched DFPR (Manual Review) (72) ---
+--- Unmatched DFPR (Manual Review) (71) ---
   HILL MIRIAM                         | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
@@ -804,7 +804,6 @@ Total needing renewal:        77
   BONACHEA ROLANDO                    | Exp: 04/30/2027
   MORENO AGNES                        | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
-  FISHER JENERRA                      | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
@@ -821,6 +820,7 @@ Total needing renewal:        77
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
   SWETZ HUANG SARAH                   | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
+  RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
@@ -829,7 +829,6 @@ Total needing renewal:        77
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
-  RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
   MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
@@ -861,7 +860,7 @@ Total needing renewal:        77
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
-  STASYTIS OVIDIJUS                   | Exp: 04/30/2028
+  LAM AMADOU                          | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
   BAXTER ALEXANDER R                  | Exp: 04/30/2028
