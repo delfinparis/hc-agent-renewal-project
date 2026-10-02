@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-01
+[HC] License Renewal Report — 2026-10-02
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     787
+REMOVE (already renewed):     785
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      75
 Total needing renewal:        75
 
---- Agents Who Renewed (787) ---
+--- Agents Who Renewed (785) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -312,7 +312,6 @@ Total needing renewal:        75
   Jansey Hilliard                     | expires 04/30/2028 (already renewed)
   Jasmine Eason                       | expires 04/30/2028 (already renewed)
   Jasmine Jude                        | expires 04/30/2028 (already renewed)
-  Jason King                          | expires 04/30/2028 (already renewed)
   Jason Press                         | expires 04/30/2028 (already renewed)
   Jason Sander                        | expires 04/30/2028 (already renewed)
   Jazmin Cassio                       | expires 04/30/2028 (already renewed)
@@ -593,7 +592,6 @@ Total needing renewal:        75
   Ola Aldibbiat                       | expires 04/30/2028 (already renewed)
   Olga Kowalski                       | expires 04/30/2028 (already renewed)
   Olga Otkina                         | expires 04/30/2028 (already renewed)
-  Ori Vardi                           | expires 04/30/2028 (already renewed)
   Ovidijus Stasytis                   | expires 04/30/2028 (already renewed)
   Pamela Cameron                      | expires 04/30/2028 (already renewed)
   Pamela Hurt                         | expires 04/30/2028 (already renewed)
@@ -796,7 +794,7 @@ Total needing renewal:        75
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Unmatched DFPR (Manual Review) (71) ---
+--- Unmatched DFPR (Manual Review) (72) ---
   HILL MIRIAM                         | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
@@ -818,6 +816,7 @@ Total needing renewal:        75
   VOS EAMON                           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
+  RYBKA EDYTA                         | Exp: 07/31/2028
   KIM CHOONG                          | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
   LUCIANI BROOKE                      | Exp: 04/30/2028
@@ -838,6 +837,7 @@ Total needing renewal:        75
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
+  SCIABICA SAM                        | Exp: 04/30/2028
   STAEHLIN NICOLE                     | Exp: 04/30/2028
   GREGORY BROOKE                      | Exp: 04/30/2028
   LIAN BO                             | Exp: 04/30/2028
@@ -845,6 +845,7 @@ Total needing renewal:        75
   SPAHR LAUREN                        | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
+  TIESI JOELLYN                       | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
@@ -854,16 +855,14 @@ Total needing renewal:        75
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
-  SCIABICA SAM                        | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
+  LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
-  TIESI JOELLYN                       | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
-  LIEBLANG ROBERT                     | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
