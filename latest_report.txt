@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-02
+[HC] License Renewal Report — 2026-10-03
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     785
+REMOVE (already renewed):     788
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      75
-Total needing renewal:        75
+KEEP (no match in DFPR):      76
+Total needing renewal:        76
 
---- Agents Who Renewed (785) ---
+--- Agents Who Renewed (788) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -94,6 +94,7 @@ Total needing renewal:        75
   Bektemir Ashirmatov                 | expires 04/30/2028 (already renewed)
   Belinda Brown                       | expires 04/30/2028 (already renewed)
   Bertha Cruz                         | expires 04/30/2028 (already renewed)
+  Betty Garcia                        | expires 04/30/2028 (already renewed)
   Bilha Salomon                       | expires 04/30/2028 (already renewed)
   Bina Shah                           | expires 04/30/2028 (already renewed)
   Binh Phung                          | expires 04/30/2028 (already renewed)
@@ -307,6 +308,7 @@ Total needing renewal:        75
   Jamie Higer                         | expires 04/30/2028 (already renewed)
   Janeen Pettett                      | expires 04/30/2028 (already renewed)
   Janet Casalina                      | expires 04/30/2028 (already renewed)
+  Janet Hull                          | expires 04/30/2028 (already renewed)
   Janet Ocampo                        | expires 04/30/2028 (already renewed)
   Jann Tyler                          | expires 04/30/2028 (already renewed)
   Jansey Hilliard                     | expires 04/30/2028 (already renewed)
@@ -421,7 +423,6 @@ Total needing renewal:        75
   Ken Koomalsingh                     | expires 04/30/2028 (already renewed)
   Kena Pastore                        | expires 04/30/2028 (already renewed)
   Kenneth Lauer                       | expires 04/30/2028 (already renewed)
-  Kenyetta Hunter                     | expires 04/30/2028 (already renewed)
   Kevin Johnson                       | expires 04/30/2028 (already renewed)
   Kevin Mulkern                       | expires 04/30/2028 (already renewed)
   Kevin Rothman                       | expires 04/30/2028 (already renewed)
@@ -486,6 +487,7 @@ Total needing renewal:        75
   Lydia Jordanovic                    | expires 04/30/2028 (already renewed)
   Lynda Olivera                       | expires 04/30/2028 (already renewed)
   Lynne Christian                     | expires 04/30/2028 (already renewed)
+  Madalina Tat                        | expires 04/30/2027 (already renewed)
   Magdalena Gerwel                    | expires 04/30/2028 (already renewed)
   Mahir Mameledzija                   | expires 04/30/2028 (already renewed)
   Mahira Faisal                       | expires 04/30/2028 (already renewed)
@@ -641,6 +643,7 @@ Total needing renewal:        75
   Rimas Stankus                       | expires 04/30/2028 (already renewed)
   Robert Bollhoffer                   | expires 04/30/2028 (already renewed)
   Robert Boryk                        | expires 04/30/2028 (already renewed)
+  Robert DePalma                      | expires 04/30/2028 (already renewed)
   Robert Furmanek                     | expires 04/30/2028 (already renewed)
   Robert Hendershot                   | expires 04/30/2028 (already renewed)
   Robert Maddox                       | expires 04/30/2028 (already renewed)
@@ -796,6 +799,7 @@ Total needing renewal:        75
 
 --- Unmatched DFPR (Manual Review) (72) ---
   HILL MIRIAM                         | Exp: 04/30/2028
+  BOUAPHANH ORATHAY                   | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
@@ -816,7 +820,6 @@ Total needing renewal:        75
   VOS EAMON                           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
-  RYBKA EDYTA                         | Exp: 07/31/2028
   KIM CHOONG                          | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
   LUCIANI BROOKE                      | Exp: 04/30/2028
@@ -826,6 +829,7 @@ Total needing renewal:        75
   DAVIS ABBY                          | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
+  RYBKA EDYTA                         | Exp: 07/31/2028
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
@@ -833,11 +837,9 @@ Total needing renewal:        75
   NITSCH MONICA                       | Exp: 04/30/2028
   RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
-  MC GAUGHAN MICHAEL                  | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
-  SCIABICA SAM                        | Exp: 04/30/2028
   STAEHLIN NICOLE                     | Exp: 04/30/2028
   GREGORY BROOKE                      | Exp: 04/30/2028
   LIAN BO                             | Exp: 04/30/2028
@@ -845,7 +847,6 @@ Total needing renewal:        75
   SPAHR LAUREN                        | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
-  TIESI JOELLYN                       | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
@@ -855,14 +856,16 @@ Total needing renewal:        75
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
+  SCIABICA SAM                        | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
-  LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
+  TIESI JOELLYN                       | Exp: 04/30/2028
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
+  LIEBLANG ROBERT                     | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
