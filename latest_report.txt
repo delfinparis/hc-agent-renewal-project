@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-05
+[HC] License Renewal Report — 2026-10-06
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     788
+REMOVE (already renewed):     789
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      76
 Total needing renewal:        76
 
---- Agents Who Renewed (788) ---
+--- Agents Who Renewed (789) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -747,6 +747,7 @@ Total needing renewal:        76
   Todd Smith                          | expires 04/30/2028 (already renewed)
   Toma Racka                          | expires 04/30/2028 (already renewed)
   Tomasz Barbachen                    | expires 04/30/2028 (already renewed)
+  Tonya Ware                          | expires 04/30/2028 (already renewed)
   Toteanna Bell                       | expires 04/30/2028 (already renewed)
   Tracey Lane                         | expires 04/30/2028 (already renewed)
   Tracy Bleuher                       | expires 04/30/2028 (already renewed)
