@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-12
+[HC] License Renewal Report — 2026-10-13
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     782
+REMOVE (already renewed):     781
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      75
 Total needing renewal:        75
 
---- Agents Who Renewed (782) ---
+--- Agents Who Renewed (781) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -49,7 +49,6 @@ Total needing renewal:        75
   Ana Lopez                           | expires 04/30/2028 (already renewed)
   Ana Mois-Gilla                      | expires 04/30/2028 (already renewed)
   Andre Hill                          | expires 04/30/2028 (already renewed)
-  Andre Martin                        | expires 04/30/2028 (already renewed)
   Andrea Brookins                     | expires 04/30/2028 (already renewed)
   Andrea Buttita                      | expires 04/30/2027 (already renewed)
   Andrea Gowler                       | expires 04/30/2028 (already renewed)
@@ -891,6 +890,7 @@ Total needing renewal:        75
   GONZALEZ JESSICA                    | Exp: 04/30/2028
   HAYS KIMBERLY M                     | Exp: 04/30/2028
   MCFADDEN JENNY                      | Exp: 04/30/2028
+  PEARSON TEELA                       | Exp: 04/30/2028
   VANSTORY LISA                       | Exp: 04/30/2028
   FANTO MARY BETH                     | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
@@ -912,7 +912,6 @@ Total needing renewal:        75
   JONES SUSAN                         | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
   PANTELEMONIUK DAVID                 | Exp: 04/30/2028
-  PEARSON TEELA                       | Exp: 04/30/2028
   POTTARD COREY                       | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   EMERSON AMBER                       | Exp: 04/30/2028
