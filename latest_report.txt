@@ -1,11 +1,11 @@
-[HC] License Renewal Report — 2026-10-14
+[HC] License Renewal Report — 2026-10-15
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
 REMOVE (already renewed):     784
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      72
-Total needing renewal:        72
+KEEP (no match in DFPR):      73
+Total needing renewal:        73
 
 --- Agents Who Renewed (784) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
@@ -151,7 +151,6 @@ Total needing renewal:        72
   Christopher Skilnik                 | expires 04/30/2028 (already renewed)
   Christopher Yamat                   | expires 04/30/2028 (already renewed)
   Cindy Ossipovskaya                  | expires 04/30/2027 (already renewed)
-  Cody Gowler                         | expires 04/30/2028 (already renewed)
   Colleen Quinn Grubbs                | expires 04/30/2028 (already renewed)
   Collin Brunton                      | expires 04/30/2028 (already renewed)
   Constance Rasmussen                 | expires 04/30/2028 (already renewed)
@@ -248,6 +247,7 @@ Total needing renewal:        72
   Francisco Ortiz                     | expires 04/30/2028 (already renewed)
   Frank Lockenour                     | expires 04/30/2028 (already renewed)
   Fred Lin                            | expires 04/30/2028 (already renewed)
+  G SAGAR HANDA                       | expires 04/30/2028 (already renewed)
   Gabriel Malavolti                   | expires 04/30/2028 (already renewed)
   Gabrielle Vinson                    | expires 04/30/2028 (already renewed)
   Garland Robinson                    | expires 04/30/2028 (already renewed)
