@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-15
+[HC] License Renewal Report — 2026-10-16
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     784
+REMOVE (already renewed):     785
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      73
 Total needing renewal:        73
 
---- Agents Who Renewed (784) ---
+--- Agents Who Renewed (785) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -528,6 +528,7 @@ Total needing renewal:        73
   Medardo Rivera Guerrero             | expires 04/30/2028 (already renewed)
   Melanie Johnson                     | expires 04/30/2028 (already renewed)
   Melinda McCord                      | expires 04/30/2028 (already renewed)
+  Melissa Barre                       | expires 04/30/2028 (already renewed)
   Melissa Clark                       | expires 04/30/2028 (already renewed)
   Meredith Johnson                    | expires 04/30/2028 (already renewed)
   Mersudin Demirovic                  | expires 04/30/2028 (already renewed)
@@ -566,6 +567,7 @@ Total needing renewal:        73
   Mudassir Khan                       | expires 04/30/2028 (already renewed)
   Muhammad Ansari                     | expires 04/30/2028 (already renewed)
   Mustafa Noori                       | expires 04/30/2028 (already renewed)
+  Nabih Kanaan                        | expires 04/30/2028 (already renewed)
   Nadia Chaudhry                      | expires 04/30/2028 (already renewed)
   Naima Rahman-Barber                 | expires 04/30/2028 (already renewed)
   Nancy Hawes                         | expires 04/30/2028 (already renewed)
@@ -718,7 +720,6 @@ Total needing renewal:        73
   Tammy Busch                         | expires 04/30/2028 (already renewed)
   Tamula Thomas                       | expires 04/30/2028 (already renewed)
   Tanya Nikolova                      | expires 04/30/2028 (already renewed)
-  Tapeka Tolbert                      | expires 04/30/2028 (already renewed)
   Tariq Ashkar                        | expires 04/30/2028 (already renewed)
   Tarniece Miller                     | expires 04/30/2028 (already renewed)
   Tasha Odunuyi                       | expires 04/30/2028 (already renewed)
