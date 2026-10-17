@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-16
+[HC] License Renewal Report — 2026-10-17
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     785
+REMOVE (already renewed):     777
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      73
-Total needing renewal:        73
+KEEP (no match in DFPR):      71
+Total needing renewal:        71
 
---- Agents Who Renewed (785) ---
+--- Agents Who Renewed (777) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -230,7 +230,6 @@ Total needing renewal:        73
   Emma Miller                         | expires 04/30/2028 (already renewed)
   Emma Nge                            | expires 04/30/2028 (already renewed)
   Emmanuel Mendez Aranda              | expires 04/30/2028 (already renewed)
-  Eric Jackson                        | expires 04/30/2028 (already renewed)
   Eric Osmer                          | expires 04/30/2028 (already renewed)
   Erica Hodges                        | expires 04/30/2028 (already renewed)
   Erica Moore                         | expires 04/30/2028 (already renewed)
@@ -252,7 +251,6 @@ Total needing renewal:        73
   Gabrielle Vinson                    | expires 04/30/2028 (already renewed)
   Garland Robinson                    | expires 04/30/2028 (already renewed)
   Geogy George                        | expires 04/30/2028 (already renewed)
-  George Fourkas                      | expires 04/30/2028 (already renewed)
   Gina Sciore                         | expires 04/30/2028 (already renewed)
   Giovanna Smith                      | expires 04/30/2028 (already renewed)
   Glendale Dozier                     | expires 04/30/2028 (already renewed)
@@ -284,7 +282,6 @@ Total needing renewal:        73
   Ina Jones                           | expires 04/30/2028 (already renewed)
   India Henderson                     | expires 04/30/2028 (already renewed)
   Indre Dabkeviciute                  | expires 04/30/2028 (already renewed)
-  Irene Tsai                          | expires 04/30/2028 (already renewed)
   Irina Doros                         | expires 04/30/2028 (already renewed)
   Ivica Poposki                       | expires 04/30/2028 (already renewed)
   Izabela Danowska-Bogacz             | expires 04/30/2028 (already renewed)
@@ -304,7 +301,6 @@ Total needing renewal:        73
   Jamie Budwell                       | expires 04/30/2028 (already renewed)
   Jamie Higer                         | expires 04/30/2028 (already renewed)
   Janeen Pettett                      | expires 04/30/2028 (already renewed)
-  Janet Casalina                      | expires 04/30/2028 (already renewed)
   Janet Hull                          | expires 04/30/2028 (already renewed)
   Janet Ocampo                        | expires 04/30/2028 (already renewed)
   Jann Tyler                          | expires 04/30/2028 (already renewed)
@@ -452,9 +448,7 @@ Total needing renewal:        73
   Larry Chen                          | expires 04/30/2027 (already renewed)
   Laura Kaplan                        | expires 04/30/2028 (already renewed)
   Laura Lasko                         | expires 04/30/2028 (already renewed)
-  Laura Speer                         | expires 04/30/2028 (already renewed)
   Lauren Burich                       | expires 04/30/2028 (already renewed)
-  Lauren Fleury                       | expires 04/30/2028 (already renewed)
   Lauren Johnson                      | expires 04/30/2028 (already renewed)
   Laurie Lange                        | expires 04/30/2028 (already renewed)
   Laury Li                            | expires 04/30/2028 (already renewed)
@@ -489,7 +483,6 @@ Total needing renewal:        73
   Mahira Faisal                       | expires 04/30/2028 (already renewed)
   Mallory Snyderman                   | expires 04/30/2028 (already renewed)
   Marcella Doyle                      | expires 04/30/2027 (already renewed)
-  Marcin Krasnowski                   | expires 04/30/2028 (already renewed)
   Margaret Slaughter                  | expires 04/30/2027 (already renewed)
   Margaret Tessling                   | expires 04/30/2028 (already renewed)
   Maria Correa                        | expires 04/30/2028 (already renewed)
@@ -670,7 +663,6 @@ Total needing renewal:        73
   Samuel Shearer                      | expires 04/30/2027 (already renewed)
   Sandra Avila                        | expires 04/30/2028 (already renewed)
   Sandra Zavala                       | expires 04/30/2028 (already renewed)
-  Sanhita Agnihotri                   | expires 04/30/2028 (already renewed)
   Sara M. King                        | expires 04/30/2028 (already renewed)
   Sara Wittchen                       | expires 04/30/2028 (already renewed)
   Sarah Jovanovic                     | expires 04/30/2028 (already renewed)
@@ -691,6 +683,7 @@ Total needing renewal:        73
   Shweta Jain                         | expires 04/30/2028 (already renewed)
   Siobhan Ricciardi                   | expires 04/30/2028 (already renewed)
   Sophia Maka                         | expires 04/30/2028 (already renewed)
+  Sophia Morales-Cooper               | expires 04/30/2028 (already renewed)
   Soy Mathew                          | expires 04/30/2028 (already renewed)
   Staci Seed                          | expires 04/30/2028 (already renewed)
   Stacie Arnold                       | expires 04/30/2028 (already renewed)
@@ -745,7 +738,6 @@ Total needing renewal:        73
   Toma Racka                          | expires 04/30/2028 (already renewed)
   Tomasz Barbachen                    | expires 04/30/2028 (already renewed)
   Tonya Ware                          | expires 04/30/2028 (already renewed)
-  Toteanna Bell                       | expires 04/30/2028 (already renewed)
   Tracey Lane                         | expires 04/30/2028 (already renewed)
   Tracy Bleuher                       | expires 04/30/2028 (already renewed)
   Tracy Magyar                        | expires 04/30/2028 (already renewed)
