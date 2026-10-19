@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-10-18
+[HC] License Renewal Report — 2026-10-19
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -786,44 +786,110 @@ Total needing renewal:        71
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Unmatched DFPR (Manual Review) (70) ---
+--- Unmatched DFPR (Manual Review) (145) ---
+  SHEARER JULIE                       | Exp: 04/30/2027
+  WALKER JACQUELINE                   | Exp: 04/30/2027
+  MEDINA ALFREDO                      | Exp: 04/30/2028
   HILL MIRIAM                         | Exp: 04/30/2028
   BOUAPHANH ORATHAY                   | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
+  TURNER SCOTT                        | Exp: 04/30/2028
   MARTINEZ SHANNA                     | Exp: 04/30/2028
+  CURRIE ADIA                         | Exp: 04/30/2028
+  MITCHELL KRISTINA                   | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
+  WHITNEY ROBERT                      | Exp: 04/30/2028
+  MCKENZIE LA MARR                    | Exp: 04/30/2028
+  RAZVI SYED                          | Exp: 04/30/2028
+  MORALES COOPER SOPHIA               | Exp: 04/30/2028
+  TICA XENIA                          | Exp: 04/30/2028
+  BENOS STEVEN                        | Exp: 04/30/2028
+  DAWSON KAZZ                         | Exp: 04/30/2028
+  DAVEED ANKEDO                       | Exp: 04/30/2028
   BONACHEA ROLANDO                    | Exp: 04/30/2027
   MORENO AGNES                        | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
+  SCHAEFER PAUL                       | Exp: 04/30/2028
+  JOHNSON MELANIE                     | Exp: 04/30/2028
+  JAMES KRISTAN                       | Exp: 04/30/2028
+  RAZA REEMA                          | Exp: 04/30/2028
+  MANZUK MICHAEL                      | Exp: 04/30/2028
+  GALVEZ EDUARDO                      | Exp: 04/30/2028
+  MELICHAR BRIANNA                    | Exp: 04/30/2028
+  OWENS ANDREA                        | Exp: 04/30/2028
+  JONES ERROL                         | Exp: 04/30/2028
+  SOLDATOVA EKATERINA                 | Exp: 04/30/2028
+  LEON WILLIAM                        | Exp: 04/30/2028
+  LONG PETERSON TIFFANY               | Exp: 04/30/2028
+  GLASS TYREE                         | Exp: 04/30/2028
+  RIJAL DEV                           | Exp: 04/30/2028
+  LAUREANO ARIEL                      | Exp: 04/30/2028
   nan nan                             | Exp: 10/31/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
+  HORBAN VIKTORIYA                    | Exp: 04/30/2028
+  NAKAGAWA JOSEPH                     | Exp: 04/30/2028
+  SIRANT DOMINIKA                     | Exp: 04/30/2028
+  MCGINLEY MARYLENA                   | Exp: 04/30/2028
+  DURRWACHTER JOHN                    | Exp: 04/30/2028
+  TOMALIEH LOUAAI                     | Exp: 04/30/2028
+  KOWALCZYK KAMILA                    | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
+  CASADO ANTHONY                      | Exp: 04/30/2028
+  RADEV ELENA                         | Exp: 04/30/2028
+  LLEWELLYN HOLLY                     | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
   VOS EAMON                           | Exp: 04/30/2028
+  ABDALLAH KAMAL                      | Exp: 04/30/2028
+  IMHOFF MICHAEL                      | Exp: 04/30/2028
+  MARTINEZ CRYSTAL                    | Exp: 04/30/2028
+  FREDRICKSON ANDREW                  | Exp: 04/30/2028
+  ROSHASS VADIM                       | Exp: 04/30/2028
+  VUCKO REBECCA L                     | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
+  KUCA ANGELICA                       | Exp: 04/30/2028
+  REIS DAVID M                        | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
+  ELLIS TAYLOR                        | Exp: 04/30/2028
+  AKASON DENISE                       | Exp: 04/30/2027
+  FUHR ASHLEY                         | Exp: 04/30/2027
+  HOT ADMIR                           | Exp: 07/31/2028
   KIM CHOONG                          | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
   LUCIANI BROOKE                      | Exp: 04/30/2028
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
   SWETZ HUANG SARAH                   | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
+  BOGHRA PATRICK                      | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
+  CONROY KAITLYN                      | Exp: 04/30/2028
+  HEBELER BLAKE                       | Exp: 04/30/2028
+  SMARTT RICHARD                      | Exp: 04/30/2028
+  OSINA EKATERINA                     | Exp: 04/30/2028
+  BOWDRY NIA                          | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
+  HOWARD THOMAS                       | Exp: 04/30/2028
+  WOLOSHYN NIKKI                      | Exp: 04/30/2028
+  HENDERSON INDIA                     | Exp: 04/30/2028
+  DEVINCENTIS KIM                     | Exp: 04/30/2027
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
+  AKROUSH MAYRNA                      | Exp: 04/30/2028
   RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
+  RUIZ-BRANCH JUDITH                  | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
+  VATOVA PETROV RALITSA               | Exp: 04/30/2028
+  HURT PAMELA S                       | Exp: 04/30/2028
+  COLLINS DAVID                       | Exp: 04/30/2027
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
@@ -837,10 +903,16 @@ Total needing renewal:        71
   CLARKE LEENA                        | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
+  WEST TAYLOR                         | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
   GARCIA CRYSTAL                      | Exp: 04/30/2028
   HEMAPAT NOINJAN                     | Exp: 04/30/2028
+  HEMAPAT NOINJAN                     | Exp: 04/30/2028
+  LISDERO VALLORY                     | Exp: 04/30/2028
+  SNYDER ROD                          | Exp: 04/30/2028
   TYLKA ANDY                          | Exp: 04/30/2027
+  TYLKA ANDY                          | Exp: 04/30/2027
+  SLAUGHTER MARGARET D                | Exp: 04/30/2027
   THORPE JEAN                         | Exp: 04/30/2028
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
@@ -849,6 +921,7 @@ Total needing renewal:        71
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
+  DABNEY ANTOINETTE                   | Exp: 04/30/2027
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
@@ -856,4 +929,6 @@ Total needing renewal:        71
   LAM AMADOU                          | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
+  ALNEMER SUSAN                       | Exp: 04/30/2028
+  BAXTER ALEXANDER R                  | Exp: 04/30/2028
   BAXTER ALEXANDER R                  | Exp: 04/30/2028
