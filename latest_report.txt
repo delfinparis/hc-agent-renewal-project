@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-23
+[HC] License Renewal Report — 2026-10-24
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     780
+REMOVE (already renewed):     785
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      72
-Total needing renewal:        72
+KEEP (no match in DFPR):      70
+Total needing renewal:        70
 
---- Agents Who Renewed (780) ---
+--- Agents Who Renewed (785) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -61,6 +61,7 @@ Total needing renewal:        72
   Andrew Wojciak                      | expires 04/30/2028 (already renewed)
   Aneta Kopera                        | expires 04/30/2028 (already renewed)
   Angela Arrington-Jones              | expires 04/30/2028 (already renewed)
+  Angela Cox-Ahmad                    | expires 04/30/2028 (already renewed)
   Angela Dotson                       | expires 04/30/2028 (already renewed)
   Angela Galindo                      | expires 04/30/2028 (already renewed)
   Angelica Kuca                       | expires 04/30/2028 (already renewed)
@@ -220,6 +221,7 @@ Total needing renewal:        72
   Elijah Voorhees                     | expires 04/30/2028 (already renewed)
   Elizabeth Gibbons                   | expires 04/30/2028 (already renewed)
   Elizabeth Hale                      | expires 04/30/2028 (already renewed)
+  Elizabeth Robinson                  | expires 04/30/2028 (already renewed)
   Elizabeth Sander                    | expires 04/30/2028 (already renewed)
   Elizabeth Zirgaitis                 | expires 04/30/2028 (already renewed)
   Ellen Strebar                       | expires 04/30/2028 (already renewed)
@@ -278,6 +280,7 @@ Total needing renewal:        72
   Hughie Walsh                        | expires 04/30/2028 (already renewed)
   Ida Grimes                          | expires 04/30/2028 (already renewed)
   Iesha Blalock                       | expires 04/30/2028 (already renewed)
+  Ignacio Ochoa                       | expires 04/30/2028 (already renewed)
   Ike Ezeokafor                       | expires 04/30/2028 (already renewed)
   Ina Jones                           | expires 04/30/2028 (already renewed)
   India Henderson                     | expires 04/30/2028 (already renewed)
@@ -446,6 +449,7 @@ Total needing renewal:        72
   Lakisha Watson                      | expires 04/30/2027 (already renewed)
   Larecia Tucker                      | expires 04/30/2028 (already renewed)
   Larry Chen                          | expires 04/30/2027 (already renewed)
+  Latrese Jackson                     | expires 04/30/2028 (already renewed)
   Laura Kaplan                        | expires 04/30/2028 (already renewed)
   Laura Lasko                         | expires 04/30/2028 (already renewed)
   Lauren Burich                       | expires 04/30/2028 (already renewed)
@@ -583,6 +587,7 @@ Total needing renewal:        72
   Noelle Tenzillo                     | expires 04/30/2028 (already renewed)
   Norbert Lukacs                      | expires 04/30/2028 (already renewed)
   Noshaba Mohsin                      | expires 04/30/2028 (already renewed)
+  Nouman Qaiser                       | expires 04/30/2028 (already renewed)
   Ola Aldibbiat                       | expires 04/30/2028 (already renewed)
   Olga Kowalski                       | expires 04/30/2028 (already renewed)
   Olga Otkina                         | expires 04/30/2028 (already renewed)
@@ -789,7 +794,7 @@ Total needing renewal:        72
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Unmatched DFPR (Manual Review) (70) ---
+--- Unmatched DFPR (Manual Review) (69) ---
   HILL MIRIAM                         | Exp: 04/30/2028
   BOUAPHANH ORATHAY                   | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
@@ -800,7 +805,6 @@ Total needing renewal:        72
   BONACHEA ROLANDO                    | Exp: 04/30/2027
   MORENO AGNES                        | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
-  nan nan                             | Exp: 10/31/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
