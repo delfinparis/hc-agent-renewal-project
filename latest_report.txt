@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-26
+[HC] License Renewal Report — 2026-10-27
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     785
+REMOVE (already renewed):     786
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      70
 Total needing renewal:        70
 
---- Agents Who Renewed (785) ---
+--- Agents Who Renewed (786) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -678,6 +678,7 @@ Total needing renewal:        70
   Scott Turner                        | expires 04/30/2028 (already renewed)
   Sean Kim                            | expires 04/30/2028 (already renewed)
   Shanton Mathis                      | expires 04/30/2028 (already renewed)
+  Sharlene Kirsch                     | expires 04/30/2028 (already renewed)
   Sharon Kam                          | expires 04/30/2028 (already renewed)
   Sharon Severin                      | expires 07/31/2028 (already renewed)
   Shaukat Ali                         | expires 04/30/2028 (already renewed)
@@ -851,7 +852,6 @@ Total needing renewal:        70
   DURRWACHTER JOHN                    | Exp: 04/30/2028
   TOMALIEH LOUAAI                     | Exp: 04/30/2028
   KOWALCZYK KAMILA                    | Exp: 04/30/2028
-  MOHSIN NOSHABA                      | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
   LLEWELLYN HOLLY                     | Exp: 04/30/2028
@@ -864,6 +864,7 @@ Total needing renewal:        70
   NAKAGAWA JOSEPH                     | Exp: 04/30/2028
   STANTON JEFFERY                     | Exp: 04/30/2028
   ABDALLAH KAMAL                      | Exp: 04/30/2028
+  MOHSIN NOSHABA                      | Exp: 04/30/2028
   ROSHASS VADIM                       | Exp: 04/30/2028
   VUCKO REBECCA L                     | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
@@ -894,7 +895,6 @@ Total needing renewal:        70
   FURNISS ADRIENNE                    | Exp: 04/30/2028
   AJEIGBE NURUDEEN                    | Exp: 04/30/2028
   HOWARD THOMAS                       | Exp: 04/30/2028
-  PADILLA MARTHA                      | Exp: 04/30/2028
   MILLER ROBIN                        | Exp: 04/30/2028
   BUCARO JOHN                         | Exp: 04/30/2028
   PLOMINSKI-GLOEDE KATHERINE          | Exp: 04/30/2027
@@ -907,7 +907,6 @@ Total needing renewal:        70
   NITSCH MONICA                       | Exp: 04/30/2028
   AKROUSH MAYRNA                      | Exp: 04/30/2028
   RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
-  RUIZ-BRANCH JUDITH                  | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
   RAYFORD YAASMEEN                    | Exp: 04/30/2028
@@ -915,6 +914,7 @@ Total needing renewal:        70
   HURT PAMELA S                       | Exp: 04/30/2028
   FRANZEN JOHN                        | Exp: 04/30/2028
   TOWNSEND KEYERRA                    | Exp: 04/30/2028
+  PADILLA MARTHA                      | Exp: 04/30/2028
   SOMMER GLENN                        | Exp: 04/30/2028
   CHIU EDWARD                         | Exp: 04/30/2028
   CHIU EDWARD                         | Exp: 04/30/2028
@@ -929,6 +929,7 @@ Total needing renewal:        70
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
+  RUIZ-BRANCH JUDITH                  | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
   WEST TAYLOR                         | Exp: 04/30/2028
   CULLEN AMANDA                       | Exp: 04/30/2028
