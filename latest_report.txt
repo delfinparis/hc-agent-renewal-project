@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-10-30
+[HC] License Renewal Report — 2026-10-31
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     786
+REMOVE (already renewed):     788
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      70
-Total needing renewal:        70
+KEEP (no match in DFPR):      68
+Total needing renewal:        68
 
---- Agents Who Renewed (786) ---
+--- Agents Who Renewed (788) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -17,6 +17,7 @@ Total needing renewal:        70
   Adrienne Furniss                    | expires 04/30/2028 (already renewed)
   Aelna Joseph                        | expires 04/30/2028 (already renewed)
   Alaa Khalifa                        | expires 04/30/2028 (already renewed)
+  Alan Crenshaw                       | expires 04/30/2028 (already renewed)
   Albert Bacchus                      | expires 04/30/2028 (already renewed)
   Alejandro Ruiz                      | expires 04/30/2028 (already renewed)
   Aleksandra Baycheva- Dimov          | expires 04/30/2028 (already renewed)
@@ -39,6 +40,7 @@ Total needing renewal:        70
   Amanda Turner                       | expires 04/30/2028 (already renewed)
   Amber Emerson                       | expires 04/30/2028 (already renewed)
   Amber Fourman-Duke                  | expires 04/30/2028 (already renewed)
+  Ameer Aboalnadie                    | expires 04/30/2028 (already renewed)
   Ameet Chopra                        | expires 04/30/2028 (already renewed)
   Ametra Boyce                        | expires 04/30/2028 (already renewed)
   Amie Ziegler Fernandes              | expires 04/30/2028 (already renewed)
