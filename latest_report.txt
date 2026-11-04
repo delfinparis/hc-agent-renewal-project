@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-11-03
+[HC] License Renewal Report — 2026-11-04
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     788
+REMOVE (already renewed):     789
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      68
 Total needing renewal:        68
 
---- Agents Who Renewed (788) ---
+--- Agents Who Renewed (789) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -632,6 +632,7 @@ Total needing renewal:        68
   Regina Lynch                        | expires 04/30/2028 (already renewed)
   Renata Bernatonis                   | expires 04/30/2028 (already renewed)
   Renee Matthews-Cravens              | expires 04/30/2028 (already renewed)
+  Renee Smith                         | expires 04/30/2028 (already renewed)
   Reynaldo Ymson                      | expires 04/30/2028 (already renewed)
   Richard Borman                      | expires 04/30/2028 (already renewed)
   Richard Ellis                       | expires 04/30/2028 (already renewed)
@@ -837,7 +838,6 @@ Total needing renewal:        68
   CHIU EDWARD                         | Exp: 04/30/2028
   JONES MARY                          | Exp: 04/30/2028
   APPEL-BASS SUSAN                    | Exp: 04/30/2028
-  SCIABICA SAM                        | Exp: 04/30/2028
   STAEHLIN NICOLE                     | Exp: 04/30/2028
   GREGORY BROOKE                      | Exp: 04/30/2028
   LIAN BO                             | Exp: 04/30/2028
@@ -855,6 +855,7 @@ Total needing renewal:        68
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
+  SCIABICA SAM                        | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
