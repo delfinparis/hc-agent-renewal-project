@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-11-04
+[HC] License Renewal Report — 2026-11-05
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     789
+REMOVE (already renewed):     788
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      68
-Total needing renewal:        68
+KEEP (no match in DFPR):      69
+Total needing renewal:        69
 
---- Agents Who Renewed (789) ---
+--- Agents Who Renewed (788) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -85,7 +85,6 @@ Total needing renewal:        68
   Ashanti Cromwell                    | expires 04/30/2028 (already renewed)
   Ashanti Mitchell                    | expires 04/30/2028 (already renewed)
   Ashleigh Kondracki                  | expires 04/30/2028 (already renewed)
-  Ashley Fuhr                         | expires 04/30/2027 (already renewed)
   Ashley Maldonado                    | expires 04/30/2028 (already renewed)
   Ashley Shanks                       | expires 04/30/2028 (already renewed)
   Ashwani Kumar                       | expires 04/30/2028 (already renewed)
