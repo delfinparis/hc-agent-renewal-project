@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-11-09
+[HC] License Renewal Report — 2026-11-10
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     789
+REMOVE (already renewed):     790
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      69
 Total needing renewal:        69
 
---- Agents Who Renewed (789) ---
+--- Agents Who Renewed (790) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -133,6 +133,7 @@ Total needing renewal:        69
   Carol Knudson                       | expires 04/30/2028 (already renewed)
   Carolyn Jones                       | expires 04/30/2028 (already renewed)
   Cassidy Schwoebel                   | expires 04/30/2028 (already renewed)
+  Caterina Savino                     | expires 04/30/2028 (already renewed)
   Catherine Cameron                   | expires 04/30/2028 (already renewed)
   Catherine Cloyd                     | expires 04/30/2028 (already renewed)
   Cathleen Keasey                     | expires 04/30/2028 (already renewed)
@@ -813,10 +814,10 @@ Total needing renewal:        69
   DI BRIZZI RENDA                     | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
-  MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
   VOS EAMON                           | Exp: 04/30/2028
+  MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
   KIM CHOONG                          | Exp: 04/30/2028
@@ -856,7 +857,6 @@ Total needing renewal:        69
   HO KIT                              | Exp: 04/30/2028
   SCIABICA SAM                        | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
-  LIEBLANG ROBERT                     | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
@@ -864,6 +864,7 @@ Total needing renewal:        69
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
+  LIEBLANG ROBERT                     | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
