@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-11-10
+[HC] License Renewal Report — 2026-11-11
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     790
+REMOVE (already renewed):     791
 KEEP (needs renewal):         0
 KEEP (no match in DFPR):      69
 Total needing renewal:        69
 
---- Agents Who Renewed (790) ---
+--- Agents Who Renewed (791) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -370,6 +370,7 @@ Total needing renewal:        69
   John Strong                         | expires 04/30/2027 (already renewed)
   John T Reilly                       | expires 04/30/2028 (already renewed)
   John Willis                         | expires 04/30/2028 (already renewed)
+  Johnetta Reeves                     | expires 04/30/2028 (already renewed)
   Jon Zieff                           | expires 04/30/2028 (already renewed)
   Jonathan Hamilton                   | expires 04/30/2028 (already renewed)
   Jonathan Rusnak                     | expires 04/30/2028 (already renewed)
