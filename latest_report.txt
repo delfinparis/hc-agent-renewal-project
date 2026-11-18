@@ -1,4 +1,4 @@
-[HC] License Renewal Report — 2026-11-17
+[HC] License Renewal Report — 2026-11-18
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
@@ -802,57 +802,32 @@ Total needing renewal:        71
   Zivile Andrius                      | expires 04/30/2028 (already renewed)
   Zoran Stanoev                       | expires 04/30/2028 (already renewed)
 
---- Unmatched DFPR (Manual Review) (115) ---
-  WALKER JACQUELINE                   | Exp: 04/30/2027
+--- Unmatched DFPR (Manual Review) (70) ---
   HILL MIRIAM                         | Exp: 04/30/2028
   BOUAPHANH ORATHAY                   | Exp: 04/30/2028
-  GERWEL MAGDALENA                    | Exp: 04/30/2028
-  DEVINE MICHAEL                      | Exp: 04/30/2028
-  MENDEZ ARANDA EMMANUEL              | Exp: 04/30/2028
-  PASTORE KENA                        | Exp: 04/30/2028
   HOGAN CODY                          | Exp: 04/30/2028
   BARRAZA LUCIA                       | Exp: 04/30/2028
   MARTINEZ SHANNA                     | Exp: 04/30/2028
   FRANKIE BRANDA                      | Exp: 04/30/2028
   WYATT JONATHAN ALLEN                | Exp: 04/30/2028
-  SHEARER JULIE                       | Exp: 04/30/2027
   BONACHEA ROLANDO                    | Exp: 04/30/2027
-  DUGANDZIC MIKE                      | Exp: 04/30/2028
-  KREIS JUSTIN                        | Exp: 04/30/2028
   MORENO AGNES                        | Exp: 04/30/2028
-  KRUPA MARTA                         | Exp: 04/30/2028
-  PACH ANDREW                         | Exp: 04/30/2028
-  HALL JANINA                         | Exp: 04/30/2028
   HALL JANINA                         | Exp: 04/30/2028
   GOTHRA MANJIT                       | Exp: 04/30/2028
   IVELJIC MARY                        | Exp: 04/30/2028
   DI BRIZZI RENDA                     | Exp: 04/30/2028
-  DOTSON DANA                         | Exp: 04/30/2028
-  PARKS AMINA                         | Exp: 04/30/2028
-  ODUNUYI TASHA A                     | Exp: 04/30/2028
   ALI MOHAMMAD HAMED                  | Exp: 04/30/2028
-  GRAMMAS JACLYN                      | Exp: 04/30/2028
-  HODGES ERICA                        | Exp: 04/30/2028
-  MAYS LISA                           | Exp: 04/30/2028
-  DOROS IRINA                         | Exp: 04/30/2028
   LUCAS-BROWN KINYA                   | Exp: 04/30/2028
   GRAY-YORDANOV JULIA                 | Exp: 04/30/2028
   VALVERDE ANA                        | Exp: 04/30/2028
-  HARMS ALLISON                       | Exp: 04/30/2028
-  ROMAN MIRELA                        | Exp: 04/30/2028
   VOS EAMON                           | Exp: 04/30/2028
-  HERVERT BRYCE                       | Exp: 04/30/2028
   MOHAMMED ABDUL MAJEED ADN           | Exp: 04/30/2028
   WILLIAMS BRETT                      | Exp: 04/30/2028
   HAMZAH RAFEH SOURAYA                | Exp: 04/30/2028
   KIM CHOONG                          | Exp: 04/30/2028
   BROWN NICOLE                        | Exp: 04/30/2028
   LUCIANI BROOKE                      | Exp: 04/30/2028
-  LUCIANI BROOKE                      | Exp: 04/30/2028
-  WHISENAND CHRISTINA                 | Exp: 04/30/2028
   ALTARDEH ABDELKARIM                 | Exp: 04/30/2028
-  JACOBSON KEITH                      | Exp: 04/30/2028
-  LOCKENOUR FRANK                     | Exp: 04/30/2028
   SWETZ HUANG SARAH                   | Exp: 04/30/2028
   LEVEQUE EMILY                       | Exp: 04/30/2028
   DAVIS ABBY                          | Exp: 04/30/2028
@@ -861,14 +836,7 @@ Total needing renewal:        71
   ASHE KNAPP MONICA                   | Exp: 04/30/2028
   BEATY JENESSA                       | Exp: 04/30/2028
   SCHWERTZ KATHRYN                    | Exp: 04/30/2028
-  BRIXEY MICHAEL                      | Exp: 04/30/2028
-  ZILINSKIS EGLE                      | Exp: 04/30/2028
-  ERU PAUL                            | Exp: 04/30/2028
-  LASLEY JEANNE                       | Exp: 04/30/2028
-  DUNCAN SYLVIA                       | Exp: 04/30/2028
   MARTINEZ CHACON EVER                | Exp: 04/30/2028
-  ANDRIUS ZIVILE                      | Exp: 04/30/2028
-  BACCHUS ALBERT                      | Exp: 04/30/2028
   NITSCH MONICA                       | Exp: 04/30/2028
   RODRIGUEX WELLMAKER JESSICA         | Exp: 04/30/2028
   VATOVA PETROV RALITSA               | Exp: 04/30/2028
@@ -879,10 +847,6 @@ Total needing renewal:        71
   LIAN BO                             | Exp: 04/30/2028
   RULE ALISON                         | Exp: 04/30/2028
   SPAHR LAUREN                        | Exp: 04/30/2028
-  DALE JR BOBBY                       | Exp: 04/30/2028
-  CARPENTER JUSTIN                    | Exp: 04/30/2028
-  KAROLCZUK PAULINA                   | Exp: 04/30/2028
-  THOMAS LINDSEY                      | Exp: 04/30/2028
   PETERSON JENNA                      | Exp: 04/30/2028
   CLARKE LEENA                        | Exp: 04/30/2028
   HILL DESIRAE                        | Exp: 04/30/2028
@@ -894,27 +858,18 @@ Total needing renewal:        71
   SANTOS ELIZABETH                    | Exp: 04/30/2028
   MA BONNIE HUIMIN                    | Exp: 04/30/2028
   HO KIT                              | Exp: 04/30/2028
-  KAMENJARIN MICHELLE                 | Exp: 04/30/2028
-  SCIABICA SAM                        | Exp: 04/30/2028
   SCIABICA SAM                        | Exp: 04/30/2028
   STAEHLIN NICOLE                     | Exp: 04/30/2028
   MURPHY THOMAS                       | Exp: 04/30/2028
   KIANI ZAHRA                         | Exp: 04/30/2028
-  LANG BRIAN                          | Exp: 04/30/2028
-  SNYDERMAN MALLORY                   | Exp: 04/30/2028
-  ISUFI DORIANA                       | Exp: 04/30/2028
   ISUFI DORIANA                       | Exp: 04/30/2028
   TIESI JOELLYN                       | Exp: 04/30/2028
-  SLAUGHTER MARGARET D                | Exp: 04/30/2027
   O'HALLORAN KIMBERLY                 | Exp: 04/30/2028
-  MADDOX ROBERT                       | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
   HERROLD MARY                        | Exp: 04/30/2028
-  ALDIBBIAT OLA                       | Exp: 04/30/2028
   LIEBLANG ROBERT                     | Exp: 04/30/2028
   LAM AMADOU                          | Exp: 04/30/2028
-  COLLIER CAMISHA                     | Exp: 04/30/2028
   JONES CARLI                         | Exp: 04/30/2028
   WORDS TORELIA                       | Exp: 04/30/2028
   BAXTER ALEXANDER R                  | Exp: 04/30/2028
