@@ -1,13 +1,13 @@
-[HC] License Renewal Report — 2026-11-20
+[HC] License Renewal Report — 2026-11-21
 Source: Monday.com + data.illinois.gov
 Cutoff: 04/30/2026
 
-REMOVE (already renewed):     610
+REMOVE (already renewed):     611
 KEEP (needs renewal):         0
-KEEP (no match in DFPR):      256
-Total needing renewal:        256
+KEEP (no match in DFPR):      255
+Total needing renewal:        255
 
---- Agents Who Renewed (610) ---
+--- Agents Who Renewed (611) ---
   Aaron Clark                         | expires 04/30/2028 (already renewed)
   Abby Koehn                          | expires 04/30/2028 (already renewed)
   Abdulahi Erinfolami                 | expires 04/30/2028 (already renewed)
@@ -310,6 +310,7 @@ Total needing renewal:        256
   Karen Thrash                        | expires 04/30/2028 (already renewed)
   Karlton Uhm                         | expires 04/30/2028 (already renewed)
   Karolina Liaukevicius               | expires 04/30/2028 (already renewed)
+  Kathleen Au                         | expires 04/30/2028 (already renewed)
   Kathleen Byczynski                  | expires 04/30/2028 (already renewed)
   Kathleen Caveney                    | expires 04/30/2028 (already renewed)
   Kathleen D'Isa                      | expires 04/30/2028 (already renewed)
